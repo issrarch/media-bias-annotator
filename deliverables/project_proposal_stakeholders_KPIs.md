@@ -15,7 +15,7 @@
 - Citation: T. Spinde, L. Rudnitckaia, K. Sinha, F. Hamborg, B. Gipp, K. Donnay “MBIC – A Media Bias Annotation Dataset Including Annotator Characteristics”. In: Proceedings of the iConference 2021.
 
 4. __Model features__
-Annotator features: demographics (age, education level, political orientation, media consumption;
+Annotator features: demographics (age, education level), political orientation, media consumption;
 Text-based features: lexical features, bias-specific indicators (e.g., “biased_words”);
 Article metadata features: news outlet credibility scores and political leaning; topic.
 
