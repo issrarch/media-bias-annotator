@@ -1,2 +1,5 @@
+.vscode/
 .DS_Store
-.annotators_copy.csv
+
+data/draft_data/
+
