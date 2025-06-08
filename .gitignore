@@ -1,5 +1,5 @@
 .vscode/
 .DS_Store
 
-data/draft_data/
 
+exploratory data analysis/exploratory.ipynb
