@@ -1,0 +1,889 @@
+survey_record_id,bias_detection_rate,age,gender,education,native_english_speaker,political_ideology,news_check_frequency,education_ordinal,news_frequency_ordinal,english_ordinal,followed_outlets_count,follows_mainstream,follows_conservative,follows_liberal,national_papers,follows_mixed_ideology,follows_only_conservative,follows_only_liberal,follows_cnn,follows_fox,follows_nyt,follows_wapo
+0045473f40ec42a2bd2ca0ee35df0b75,0.5,29,Male,Bachelor's degree,Native speaker,7,Every day,6.0,5,3,2,1,0,1,0,0,0,1,0,0,0,0
+0159476577d6430d90f3fad01878313a,0.7,34,Female,Bachelor's degree,Native speaker,-8,Several times per week,6.0,4,3,5,1,0,1,1,0,0,1,1,0,1,1
+01e76b3027f34694a5995c8fda0fa4fd,0.8,29,Female,Some high school,Near-native speaker,6,Very rarely,1.0,2,2,1,0,1,0,0,0,1,0,0,1,0,0
+0207f30745e54a6f8bfc54f411e3c835,0.4,42,Female,Bachelor's degree,Native speaker,-4,Several times per week,6.0,4,3,1,1,0,0,0,0,0,0,1,0,0,0
+02445c15a1f248c892652971053c30c0,0.75,29,Female,Bachelor's degree,Native speaker,0,Several times per week,6.0,4,3,1,0,0,0,0,0,0,0,0,0,0,0
+027b5d638b294b12ba1d340c6de7bf7a,0.85,30,Male,Bachelor's degree,Native speaker,-4,Several times per day,6.0,6,3,2,0,0,0,1,0,0,0,0,0,1,1
+02988e2520f74867ac954f11f07b8c6c,0.7,36,Male,High school graduate,Near-native speaker,-5,Every day,2.0,5,2,13,1,1,1,1,1,0,0,1,1,1,1
+035f02dac75b43cf918dc829af0009d2,0.55,24,Female,Graduate work,Native speaker,-1,Several times per day,7.0,6,3,1,0,0,0,1,0,0,0,0,0,0,1
+03765275dd9449e6a77315c86f0b789c,0.75,40,Female,Associate degree,Native speaker,3,Every day,5.0,5,3,2,1,0,0,1,0,0,0,1,0,1,0
+03f06bd7cee94cc5aec83ba553caa189,0.45,28,Male,Associate degree,Native speaker,-4,Several times per week,5.0,4,3,1,0,0,1,0,0,0,1,0,0,0,0
+040e5a77f1ae478496dba677893cbf2f,0.4,59,Male,Bachelor's degree,Native speaker,3,Every day,6.0,5,3,2,0,1,0,1,0,1,0,0,1,1,0
+041ca080c7d84fb290889d38462d9151,0.5,35,Female,Bachelor's degree,Native speaker,-3,Every day,6.0,5,3,5,1,1,0,1,0,1,0,1,0,1,0
+047fed8252d342f1be89a61c4d071a3a,0.95,26,Female,Some college,Native speaker,-10,Several times per day,4.0,6,3,7,1,0,1,1,0,0,1,1,0,1,0
+04c50c1be1174286960247269f46edb7,0.6,28,Female,Graduate work,Native speaker,-10,Every day,7.0,5,3,14,1,1,1,1,1,0,0,1,0,0,1
+04f68a46e15b43b48729a93d7c2a182d,0.85,68,Male,Some college,Native speaker,5,Several times per week,4.0,4,3,2,0,1,0,1,0,1,0,0,1,0,0
+05067c045f674ace93b0f4bbabeaa10a,0.35,29,Female,High school graduate,Native speaker,6,Several times per day,2.0,6,3,1,1,0,0,0,0,0,0,0,0,0,0
+05370d7ff77f43c29eaaaf0553795feb,0.5,47,Female,Associate degree,Native speaker,-3,Every day,5.0,5,3,3,1,0,0,1,0,0,0,1,0,1,1
+05776cff692b4fbd9c9fd762ad05dac6,0.9,61,Female,Bachelor's degree,Native speaker,7,Every day,6.0,5,3,4,1,1,0,1,0,1,0,1,1,0,1
+058a5f74308a4cb09cef9ba53aabfb69,0.65,27,Female,High school graduate,Native speaker,-5,Several times per month,2.0,3,3,2,1,0,0,0,0,0,0,1,0,0,0
+05a46cc25c614d47a8ea7f9a0bafefdb,0.45,29,Female,Bachelor's degree,Native speaker,-9,Every day,6.0,5,3,2,1,1,0,0,0,1,0,1,1,0,0
+0642085ac3074ed8bc5abfe47b11eeab,0.3,25,Male,Bachelor's degree,Native speaker,-6,Very rarely,6.0,2,3,1,0,0,0,1,0,0,0,0,0,0,1
+067a01d6107242789a2268081c3344eb,0.55,37,Female,Bachelor's degree,Native speaker,6,Every day,6.0,5,3,1,1,0,0,0,0,0,0,1,0,0,0
+069f4dbab7e74159babc8f0ee7252efb,0.4,50,Male,Some college,Native speaker,0,Several times per day,4.0,6,3,1,1,0,0,0,0,0,0,0,0,0,0
+0798824a0602461ba5d6d51d349ae270,0.8,28,Female,Some college,Native speaker,-3,Every day,4.0,5,3,2,0,0,1,1,0,0,1,0,0,1,0
+08519981f1024a10bb7dec4b505226ce,0.55,30,Female,Bachelor's degree,Native speaker,10,Every day,6.0,5,3,1,0,1,0,0,0,1,0,0,1,0,0
+08589933bb3e4f0da9592fa2fadf9ac7,0.9,28,Male,Bachelor's degree,Native speaker,-6,Every day,6.0,5,3,7,1,1,0,1,0,1,0,1,0,1,0
+08b3bd0ed83848739086c81084170b97,0.6,55,Male,Vocational or technical school,Native speaker,-1,Several times per week,3.0,4,3,2,1,0,0,1,0,0,0,1,0,0,1
+08d15fc2160f4bd3b141fa817a008d0a,0.6,25,Male,Bachelor's degree,Native speaker,-5,Every day,6.0,5,3,1,0,0,0,1,0,0,0,0,0,0,1
+08d329fdb56b4075a8d6acda6d318bcf,0.8,35,Male,Graduate work,Native speaker,-10,Every day,7.0,5,3,2,0,0,0,1,0,0,0,0,0,1,1
+091a3a7cf69045508e02a769517097ae,0.5,45,Female,Bachelor's degree,Native speaker,8,Every day,6.0,5,3,1,0,0,0,1,0,0,0,0,0,1,0
+09f553d6f3ff4b869c47176994c05ba3,0.8,27,Male,Bachelor's degree,Native speaker,0,Several times per week,6.0,4,3,1,0,0,0,1,0,0,0,0,0,1,0
+0a4ad4bdef354d9b89e40a17b1ea7479,0.5,26,Male,Some college,Native speaker,9,Every day,4.0,5,3,1,0,1,0,0,0,1,0,0,1,0,0
+0aad3c96e59b4b26a7b73b39bf546161,0.55,36,Male,High school graduate,Native speaker,-10,Several times per month,2.0,3,3,1,1,0,0,0,0,0,0,0,0,0,0
+0af6c16a06144681959e6a2b61444484,0.65,34,Male,Bachelor's degree,Native speaker,-7,Every day,6.0,5,3,4,1,1,0,1,0,1,0,0,0,0,1
+0aff7a5048b54c37992b3782bc33a02b,0.85,29,Female,Bachelor's degree,Native speaker,2,Several times per month,6.0,3,3,1,0,1,0,0,0,1,0,0,1,0,0
+0b1bfa63ff884b9bafd013764c932ba6,0.5,49,Male,High school graduate,Native speaker,10,Several times per week,2.0,4,3,9,1,1,1,1,1,0,0,1,1,1,1
+0b87dbcfedd240d2990ba886cae8c002,0.7,25,Male,Associate degree,Native speaker,5,Several times per month,5.0,3,3,1,1,0,0,0,0,0,0,1,0,0,0
+0be7d903460746398a5a8d17bf190f0e,0.55,51,Female,Bachelor's degree,Native speaker,-2,Several times per day,6.0,6,3,1,0,0,0,1,0,0,0,0,0,1,0
+0bef110f3d824050aaffd7bf95577b64,0.65,36,Male,High school graduate,Native speaker,-10,Every day,2.0,5,3,2,0,0,0,1,0,0,0,0,0,1,1
+0c27a82a851b425e8babc11a88185a3c,0.65,25,Male,Bachelor's degree,Native speaker,-8,Every day,6.0,5,3,3,1,1,0,1,0,1,0,0,0,1,0
+0c4de25bc36440b5b35ea435462389db,0.55,34,Male,Bachelor's degree,Native speaker,-4,Every day,6.0,5,3,5,1,1,1,1,1,0,0,0,0,1,1
+0c897b4a55654b35b666e53135537fdb,0.4,46,Female,Some college,Native speaker,0,Several times per day,4.0,6,3,5,1,1,1,0,1,0,0,0,1,0,0
+0c9cb8d3ba434452a58d611e57dfc29e,0.8,35,Female,Graduate work,Native speaker,-6,Several times per week,7.0,4,3,1,0,0,1,1,0,0,1,0,0,0,0
+0cd40f4564da472dac11681c98bfbf2b,0.7,30,Female,Bachelor's degree,Native speaker,-7,Several times per week,6.0,4,3,1,0,0,1,0,0,0,1,0,0,0,0
+0cfe420fecc44033b0082bfc8c3cbb14,0.8,36,Male,Bachelor's degree,Native speaker,-7,Every day,6.0,5,3,6,1,1,1,0,1,0,0,1,1,0,0
+0dac342756e34cf48ca4f199c23c4da9,0.85,37,Female,Associate degree,Native speaker,8,Every day,5.0,5,3,2,1,0,0,0,0,0,0,0,0,0,0
+0e95454e2ee54f3f942d6bb6541a971a,0.5,38,Male,Bachelor's degree,Native speaker,9,Several times per week,6.0,4,3,1,0,0,0,0,0,0,0,0,0,0,0
+0f38fb0edf5b46b398c3d05f00e810ce,0.35,54,Female,Bachelor's degree,Native speaker,2,Every day,6.0,5,3,2,1,1,0,1,0,1,0,1,0,0,0
+0f77977bf07749558417504fb9fff5f6,0.35,40,Female,Bachelor's degree,Native speaker,-4,Very rarely,6.0,2,3,2,1,0,0,1,0,0,0,1,0,1,0
+0f97aac53f5f4d2c9d33f1209939c5ce,0.8,46,Male,Associate degree,Native speaker,-1,Several times per week,5.0,4,3,1,1,0,0,0,0,0,0,1,0,0,0
+102a316ef40f4f729892e9036f7419a5,0.8,33,Male,Some college,Native speaker,-2,Every day,4.0,5,3,2,1,0,0,1,0,0,0,1,0,0,0
+103ac1c708dd4af99761d0b253a50d8d,0.7,25,Female,Bachelor's degree,Native speaker,-9,Several times per week,6.0,4,3,3,1,1,0,0,0,1,0,1,1,0,0
+10739e89aa1f4691914c657cb5c711cf,0.8,28,Female,Bachelor's degree,Native speaker,-8,Every day,6.0,5,3,4,1,0,1,1,0,0,1,0,0,0,1
+108b0105153e4db5826ed0414ce29270,0.55,39,Male,Some college,Native speaker,0,Several times per month,4.0,3,3,3,1,1,0,0,0,1,0,1,1,0,0
+10a1254a1ead4b04863f50ab486e6c9a,0.75,22,Female,Bachelor's degree,Native speaker,-9,Several times per week,6.0,4,3,6,1,1,1,1,1,0,0,1,1,1,1
+10b8cb7efdb749feacff1ad81c51801f,0.75,49,Male,Bachelor's degree,Native speaker,7,Every day,6.0,5,3,1,1,0,0,0,0,0,0,0,0,0,0
+1237b6bf97b947df92bb9bde7e3c8b97,0.7,43,Male,Bachelor's degree,Native speaker,-2,Several times per day,6.0,6,3,5,1,0,0,1,0,0,0,0,0,1,1
+123ae9a303ef4487b978da3097c6e080,0.6,47,Female,Bachelor's degree,Native speaker,-4,Every day,6.0,5,3,1,1,0,0,0,0,0,0,1,0,0,0
+12a2c8524f424a22be5c03eb90d39c99,0.8,29,Male,Bachelor's degree,Native speaker,-4,Several times per week,6.0,4,3,3,1,1,0,1,0,1,0,0,0,1,0
+1317b8467a04494b96fea1bf214a74cf,0.35,41,Male,Bachelor's degree,Native speaker,9,Several times per week,6.0,4,3,4,1,1,0,1,0,1,0,1,1,1,0
+14b7b7891b644724804a064923c1f73c,0.5,28,Male,Bachelor's degree,Native speaker,3,Every day,6.0,5,3,4,1,0,0,1,0,0,0,1,0,1,1
+14e9d9c207bc48d28ddcce6ab51359fb,0.85,36,Male,Bachelor's degree,Native speaker,3,Every day,6.0,5,3,2,1,1,0,0,0,1,0,0,1,0,0
+15180f3a245f455ba504def9124142cd,0.45,39,Male,Associate degree,Native speaker,4,Every day,5.0,5,3,4,1,1,0,1,0,1,0,0,0,1,0
+155b4947db0e418ba462202245190f67,0.85,28,Female,Some college,Native speaker,-7,Every day,4.0,5,3,1,1,0,0,1,0,0,0,0,0,0,0
+1570bb51d9544a9ca4fbecb5279f6ad4,0.5,42,Male,Associate degree,Native speaker,9,Several times per week,5.0,4,3,14,1,1,1,1,1,0,0,1,1,1,1
+15b1999fa3d94abdabff868108c50de8,0.9,42,Female,High school graduate,Native speaker,6,Several times per month,2.0,3,3,2,1,1,0,0,0,1,0,0,1,0,0
+15bec64fdb5541af9ddff70191a1eb0e,0.4,35,Female,I prefer not to say,Native speaker,3,Very rarely,6.0,2,3,3,0,1,0,0,0,1,0,0,1,0,0
+15ff361d3afa4729a2bd335e6e7cf445,0.65,55,Male,Associate degree,Native speaker,8,Several times per day,5.0,6,3,1,0,1,0,0,0,1,0,0,1,0,0
+16368aa2159a425c95bf6c742740d672,0.55,45,Male,Bachelor's degree,Native speaker,1,Several times per day,6.0,6,3,7,1,1,0,1,0,1,0,1,0,1,0
+1664d928ef8240f19a4a9e72e34e7da0,0.5,37,Male,High school graduate,Native speaker,-5,Every day,2.0,5,3,5,1,1,1,1,1,0,0,1,1,1,0
+16c195ca75a545cc8353f0106b1c2bb1,0.45,46,Male,Bachelor's degree,Native speaker,-3,Several times per day,6.0,6,3,8,1,1,1,1,1,0,0,1,1,1,1
+16c703032a384352ad48a3b2949a8b87,0.35,47,Female,Graduate work,Native speaker,-10,Several times per day,7.0,6,3,4,1,0,1,1,0,0,1,1,0,1,1
+17403660f64c46b1b684ece5587ef37a,0.55,32,Male,Some college,Native speaker,-10,Several times per day,4.0,6,3,4,1,0,0,1,0,0,0,1,0,1,0
+1756a93afa5142c793eeebf814541d4f,0.8,24,Male,Bachelor's degree,Native speaker,0,Several times per day,6.0,6,3,4,1,1,0,0,0,1,0,1,1,0,0
+176ccc72d6d64c608533913f2adb6257,0.6,31,Male,Bachelor's degree,Native speaker,-9,Several times per week,6.0,4,3,10,1,0,0,0,0,0,0,1,0,0,0
+17b8b2e2a2ec4654bfa443dac5d18691,0.0,27,Male,Bachelor's degree,Native speaker,10,Every day,6.0,5,3,3,1,1,0,1,0,1,0,1,1,0,1
+1894b50c42e24d28a6fce7de2f8f55e9,0.8,69,Female,Associate degree,Native speaker,10,Several times per day,5.0,6,3,3,1,1,0,0,0,1,0,0,1,0,0
+189a99e07c5e4b03b365e0c825b13e29,0.85,37,Female,Bachelor's degree,Native speaker,-5,Several times per week,6.0,4,3,2,1,1,0,0,0,1,0,1,1,0,0
+190d6362dade463da6af536c9ae52dc7,0.95,32,Male,Bachelor's degree,Native speaker,-5,Several times per week,6.0,4,3,1,0,0,0,1,0,0,0,0,0,1,0
+1966be3d66364654aee3dd5a7fe8f940,0.7,27,Female,Some college,Native speaker,2,Every day,4.0,5,3,4,1,0,0,1,0,0,0,0,0,1,0
+1999d70b72b44ddc9ad17b58840affc9,0.75,47,Male,Graduate work,Native speaker,6,Every day,7.0,5,3,1,1,0,0,0,0,0,0,1,0,0,0
+19b98da388154e35b5baa81321d8599a,0.8,24,Male,Bachelor's degree,Native speaker,0,Several times per day,6.0,6,3,4,1,1,0,0,0,1,0,1,1,0,0
+19e4dbc9bd07475f8bc29bd650d3be8e,0.75,38,Male,Graduate work,Native speaker,-9,Several times per week,7.0,4,3,1,0,0,0,1,0,0,0,0,0,1,0
+1a5176ca6e444825be87d3df8fc5dc03,0.65,38,Male,Bachelor's degree,Native speaker,-3,Several times per day,6.0,6,3,1,1,0,0,0,0,0,0,1,0,0,0
+1aa1939c59134fee9fc0ea445186dbd6,0.6,24,Male,Some college,Native speaker,1,Several times per month,4.0,3,3,2,1,0,0,1,0,0,0,1,0,1,0
+1b4e07191e3f49fc94248f76de5cf0d7,0.5,66,Female,Bachelor's degree,Native speaker,10,Several times per day,6.0,6,3,3,0,1,1,1,1,0,0,0,0,1,0
+1b629d95308d4927aff42a2bbbdec768,0.65,43,Female,Bachelor's degree,Native speaker,7,Every day,6.0,5,3,3,1,1,0,0,0,1,0,1,1,0,0
+1b6bceab7bb547c28169c7161897617f,0.45,25,Other/Prefer not to say,Bachelor's degree,Native speaker,-5,Several times per month,6.0,3,3,1,0,0,0,1,0,0,0,0,0,0,1
+1c7125b46e5b4116962c947894b8dc02,0.7,37,Female,Bachelor's degree,Native speaker,0,Several times per month,6.0,3,3,1,0,1,0,1,0,1,0,0,0,0,0
+1c71ec4f4d85499aa3b4b5400c35ea07,0.35,29,Female,Bachelor's degree,Native speaker,0,Several times per month,6.0,3,3,3,0,0,0,1,0,0,0,0,0,1,1
+1c8ec182e2dd44ca979154818be5d0a4,0.6,36,Female,Graduate work,Native speaker,6,Every day,7.0,5,3,1,1,0,0,0,0,0,0,1,0,0,0
+1cdf4eea5a1b4851b64c11fdc5de9329,0.6,36,Male,Bachelor's degree,Native speaker,10,Every day,6.0,5,3,3,1,1,0,1,0,1,0,0,1,0,1
+1d0f11135c384318972bf5ae21370bbb,0.35,57,Female,Bachelor's degree,Native speaker,-8,Several times per day,6.0,6,3,1,0,0,1,0,0,0,1,0,0,0,0
+1d20139a89cf4177871fcfe342e5e6eb,0.95,48,Female,Graduate work,Native speaker,-3,Several times per day,7.0,6,3,9,1,1,1,1,1,0,0,1,0,1,1
+1d28a6f7aed0466aa3be6d3ebf6361d6,0.65,34,Male,Bachelor's degree,Native speaker,-10,Every day,6.0,5,3,2,1,0,0,1,0,0,0,1,0,0,1
+1d2abb370195483d981e5736f562a2d9,0.6,30,Male,Bachelor's degree,Native speaker,5,Several times per day,6.0,6,3,1,1,0,0,0,0,0,0,1,0,0,0
+1dec5b1a41f94497ba780d30085f3bb7,0.75,26,Female,Bachelor's degree,Native speaker,6,Several times per week,6.0,4,3,2,1,0,0,0,0,0,0,1,0,0,0
+1ded74bec85c4bc0946e8cef2a7ed2cd,0.35,36,Female,Associate degree,Native speaker,-9,Several times per week,5.0,4,3,3,0,0,0,1,0,0,0,0,0,1,1
+1e20d10547674485a450187aa20afd04,0.65,30,Female,Some college,Native speaker,10,Every day,4.0,5,3,4,0,1,0,1,0,1,0,0,1,0,1
+1e733fe9ac504bc4bfe6fcfc082ea5de,0.85,33,Male,Associate degree,Native speaker,-8,Several times per week,5.0,4,3,1,0,0,0,1,0,0,0,0,0,0,1
+1eb212019fec4722a7ceea75768b71ae,0.75,48,Male,Bachelor's degree,Native speaker,-10,Several times per day,6.0,6,3,3,0,0,1,1,0,0,1,0,0,1,1
+1eef006776ff4b5ba36791cc690032d7,0.6,30,Female,Some college,Native speaker,-9,Several times per week,4.0,4,3,3,1,0,1,0,0,0,1,1,0,0,0
+1f7065bcfb634396ba98bc4876139393,0.8,40,Male,Bachelor's degree,Native speaker,1,Several times per week,6.0,4,3,1,1,0,0,1,0,0,0,0,0,0,0
+1f9b6ef03e734f3ca077cdb574d60454,0.5,34,Female,Some college,Native speaker,-8,Every day,4.0,5,3,2,0,1,1,0,1,0,0,0,1,0,0
+20028156766b4cf5b3cb3765850d2a65,0.7,46,Female,Associate degree,Native speaker,-5,Every day,5.0,5,3,1,1,0,0,0,0,0,0,0,0,0,0
+200a313424bb47849e4fc12cf637c6a3,0.3,26,Male,Bachelor's degree,Native speaker,9,Several times per week,6.0,4,3,5,1,1,0,1,0,1,0,1,1,0,1
+2146ad5f4dff4c83b1a7bd0d3cf8aaeb,0.6,36,Male,Some college,Native speaker,-2,Several times per week,4.0,4,3,3,1,1,1,0,1,0,0,1,1,0,0
+219257c09a354b4eb6731109240f2f47,0.7,24,Male,Some college,Native speaker,-7,Several times per week,4.0,4,3,2,1,0,0,1,0,0,0,0,0,0,1
+221943e9ab344806b9b75877d8cf89d0,0.35,25,Male,Associate degree,Native speaker,-3,Every day,5.0,5,3,6,1,1,1,1,1,0,0,1,0,0,0
+221b57808bc24fa8b102a0dd80a8d987,0.5,30,Female,Associate degree,Native speaker,6,Every day,5.0,5,3,5,1,1,0,1,0,1,0,1,1,1,0
+22327352bb3e468f9065e6a70a0eb07d,0.55,69,Male,High school graduate,Native speaker,10,Several times per week,2.0,4,3,2,0,1,0,0,0,1,0,0,1,0,0
+2285b2c7d8b846cea59487453e646224,0.45,36,Male,Some college,Native speaker,0,Several times per month,4.0,3,3,2,0,0,0,1,0,0,0,0,0,0,1
+22a66491ce5341d3863c2ad0abdf22ab,0.55,35,Male,Associate degree,Native speaker,0,Several times per day,5.0,6,3,6,1,1,1,0,1,0,0,0,1,0,0
+22d189f0d309420281273f7ddc227b54,0.75,51,Male,High school graduate,Native speaker,-6,Every day,2.0,5,3,2,1,0,0,1,0,0,0,1,0,1,0
+22d265a0af124ab1990b50a807430184,0.55,44,Male,Some college,Native speaker,-3,Several times per day,4.0,6,3,1,0,0,0,1,0,0,0,0,0,0,1
+22fe3daf8df942b1a5b8d9806b3baea9,0.8,28,Female,Bachelor's degree,Native speaker,-10,Every day,6.0,5,3,4,1,0,1,1,0,0,1,0,0,0,1
+23125a62967644eda54b1372d74f179e,0.55,37,Female,Some college,Native speaker,-5,Several times per month,4.0,3,3,1,1,0,0,0,0,0,0,0,0,0,0
+23702b8f227e4feaa9ed34204639ad43,0.8,30,Male,Associate degree,Native speaker,-2,Several times per week,5.0,4,3,1,1,0,0,1,0,0,0,0,0,0,0
+23a66ab517554485a16231444013c386,0.5,52,Male,Graduate work,Native speaker,4,Several times per week,7.0,4,3,2,0,1,1,0,1,0,0,0,1,0,0
+23bea035f8e14db885abb1460cae6b90,0.6,35,Male,Graduate work,Native speaker,8,Several times per day,7.0,6,3,3,1,0,0,0,0,0,0,0,0,0,0
+23c88039e1c24b64a533329836538404,0.65,41,Female,Graduate work,Native speaker,2,Several times per week,7.0,4,3,2,1,1,0,0,0,1,0,0,1,0,0
+242b700702bd4518ad3aea412b1405f5,0.3,46,Female,Associate degree,Native speaker,2,Every day,5.0,5,3,2,1,0,1,0,0,0,1,0,0,0,0
+24319cd46c2544cc88a954a349f9f1ff,0.6,26,Male,Bachelor's degree,Native speaker,-1,Every day,6.0,5,3,1,0,0,0,1,0,0,0,0,0,1,0
+244d927f58a54af4b2e9a1360d03e6f3,0.6,37,Male,Graduate work,Native speaker,-1,Every day,7.0,5,3,1,0,1,0,0,0,1,0,0,0,0,0
+249a2d1dcfdb43c987c8e4c36dafee4e,0.5,37,Female,Some college,Native speaker,-10,Every day,4.0,5,3,2,1,0,0,0,0,0,0,1,0,0,0
+24b0d8c80efa4ac183175e6bc3249da9,0.4,40,Male,Bachelor's degree,Native speaker,-8,Every day,6.0,5,3,1,1,0,0,0,0,0,0,1,0,0,0
+256cc17edf494eb6b67ad31697ab0c36,0.4,32,Female,Some college,Native speaker,-10,Every day,4.0,5,3,1,1,0,0,0,0,0,0,1,0,0,0
+25912ed9ab914d5ca1c847881cba2f4d,0.0,47,Male,Bachelor's degree,Native speaker,5,Every day,6.0,5,3,3,1,0,0,1,0,0,0,0,0,1,0
+25df002544c0403395600bcfaf9441c9,0.8,39,Male,Some college,Native speaker,10,Every day,4.0,5,3,1,0,1,0,1,0,1,0,0,0,0,0
+25f785bdaf9644409a191e195a0f152d,0.5,29,Female,Some college,Native speaker,1,Several times per day,4.0,6,3,4,1,1,0,1,0,1,0,0,0,0,0
+26655f50d20741f8adfa3acb59dae902,0.7,29,Male,Bachelor's degree,Native speaker,-2,Several times per month,6.0,3,3,1,0,0,0,0,0,0,0,0,0,0,0
+26b98ea6971646c9834b7949bf1f3db6,0.65,36,Female,Some college,Native speaker,0,Several times per week,4.0,4,3,1,0,0,0,0,0,0,0,0,0,0,0
+26cf898e9fd84c49aa33e1af36d1d513,0.45,43,Male,Bachelor's degree,Native speaker,6,Every day,6.0,5,3,3,1,1,0,0,0,1,0,0,1,0,0
+272f1337e15c47cf8c2be8245c7ef29d,0.35,27,Female,Bachelor's degree,Native speaker,-3,Several times per month,6.0,3,3,2,0,1,0,1,0,1,0,0,0,1,0
+2737ee9401da4e7b831eb9c733b3361d,0.0,47,Female,Bachelor's degree,Native speaker,5,Every day,6.0,5,3,1,1,0,0,0,0,0,0,0,0,0,0
+275c171b8dd64783908660fd0143e3a1,0.4,33,Male,Bachelor's degree,Native speaker,4,Several times per week,6.0,4,3,2,1,1,0,1,0,1,0,0,0,0,0
+277efe90dcba4f939e11d7df088246c6,0.75,25,Male,Bachelor's degree,Native speaker,4,Every day,6.0,5,3,2,1,0,0,1,0,0,0,0,0,1,0
+28049822b9fd4fec88bfaeada44315bf,0.9,55,Female,Graduate work,Native speaker,0,Every day,7.0,5,3,4,1,0,0,1,0,0,0,0,0,1,0
+28066094b351485dae46b7184ce89f97,0.7,45,Male,Bachelor's degree,Native speaker,9,Every day,6.0,5,3,4,0,0,0,0,0,0,0,0,0,0,0
+28c737433be348f0961d767c84f0a382,0.3,23,Male,Some college,Native speaker,-6,Every day,4.0,5,3,5,1,0,0,1,0,0,0,1,0,1,1
+292edd2c04f4467b89033d73a18c90d6,1.0,35,Female,Bachelor's degree,Native speaker,3,Every day,6.0,5,3,1,0,0,0,1,0,0,0,0,0,1,0
+29e6105694554cb1a99862350e33ef2a,0.45,37,Male,Bachelor's degree,Native speaker,10,Every day,6.0,5,3,2,0,1,0,0,0,1,0,0,1,0,0
+2a9a7666af8041a99db5c266bc7fe71d,0.4,29,Male,Some college,Native speaker,-6,Very rarely,4.0,2,3,4,1,1,0,1,0,1,0,1,0,0,0
+2ae2f181af174127a793c4e058558f2e,0.4,38,Male,Bachelor's degree,Native speaker,-7,Several times per day,6.0,6,3,3,1,0,0,1,0,0,0,0,0,1,1
+2b59ee2bb447407fa941747b56f8946e,0.55,45,Male,Graduate work,Native speaker,10,Every day,7.0,5,3,4,1,1,0,0,0,1,0,1,1,0,0
+2bc9fb04ba6746e0a0bcf319de083b21,0.6,25,Female,Bachelor's degree,Native speaker,5,Every day,6.0,5,3,2,1,1,0,0,0,1,0,0,1,0,0
+2c7256d9f08445fcb5f289d784cacd7a,0.2,49,Female,Bachelor's degree,Native speaker,-8,Several times per day,6.0,6,3,5,1,1,1,1,1,0,0,1,0,1,0
+2cfa39d89b214961b926cab64bb6d5fb,0.1,47,Female,Graduate work,Native speaker,2,Never,7.0,1,3,7,1,1,0,1,0,1,0,0,0,1,0
+2d5d2e9241e84a739070cbe19a00a94e,0.6,23,Male,Bachelor's degree,Native speaker,10,Several times per day,6.0,6,3,7,1,1,1,1,1,0,0,1,1,0,1
+2d91a53667324b59a97658b905fe396d,0.8,34,Female,High school graduate,Native speaker,8,Every day,2.0,5,3,1,0,1,0,0,0,1,0,0,1,0,0
+2ddc7c5117104d82a2dc0318c033bf0b,0.4,31,Male,High school graduate,Native speaker,5,Several times per month,2.0,3,3,1,0,0,0,0,0,0,0,0,0,0,0
+2de5fc0e3bb64780bf04766ef7f0fa7e,0.35,38,Female,Bachelor's degree,Native speaker,-10,Several times per week,6.0,4,3,1,1,0,0,0,0,0,0,1,0,0,0
+2e2a9969042445c2b8f43c2bb53a4d05,0.55,41,Male,Bachelor's degree,Native speaker,-6,Every day,6.0,5,3,5,1,1,0,1,0,1,0,0,0,1,1
+2e6fd58eeb17459e8a2ed6977ae371de,0.8,37,Male,High school graduate,Native speaker,-4,Every day,2.0,5,3,3,1,0,0,1,0,0,0,0,0,1,0
+2e7a23d9368d422fad3b9bf25994fbd7,0.95,25,Female,Bachelor's degree,Native speaker,10,Every day,6.0,5,3,4,1,0,0,1,0,0,0,1,0,1,1
+2e9b87f8a77444a29a24394ddf499e3a,0.75,58,Female,Associate degree,Native speaker,9,Every day,5.0,5,3,1,0,1,0,0,0,1,0,0,1,0,0
+2ea075df3d7b4a69b541ab555d084d62,0.8,28,Female,Graduate work,Native speaker,3,Very rarely,7.0,2,3,3,1,1,1,0,1,0,0,1,1,0,0
+2f219c2fdf8a48f9960e9885de4562b2,0.4,29,Female,Bachelor's degree,Native speaker,-8,Several times per month,6.0,3,3,3,1,0,0,1,0,0,0,1,0,1,0
+2f435c5d2f5e43e7bf88fe7259849867,0.6,38,Male,Bachelor's degree,Native speaker,0,Several times per month,6.0,3,3,1,0,0,0,0,0,0,0,0,0,0,0
+2f4530d3e448495093fc7fcb2e70018b,0.5,33,Female,Vocational or technical school,Native speaker,0,Several times per month,3.0,3,3,2,1,0,0,0,0,0,0,1,0,0,0
+2f4b0284bb30432d81104f006ec9109e,0.65,34,Male,Bachelor's degree,Native speaker,7,Every day,6.0,5,3,4,0,1,1,1,1,0,0,0,1,0,0
+301504bd6efe4fef818afe860dc7707c,0.55,46,Female,Associate degree,Native speaker,2,Several times per week,5.0,4,3,1,0,0,0,0,0,0,0,0,0,0,0
+302a3904c1824c58892784be62954ab9,0.75,31,Male,Associate degree,Native speaker,4,Every day,5.0,5,3,6,1,1,1,1,1,0,0,1,1,1,0
+304b05b3d5d34a60897ed3be121b66d2,0.85,56,Female,Associate degree,Native speaker,-4,Several times per day,5.0,6,3,4,1,1,0,1,0,1,0,1,1,0,1
+31721d703b3d4953ac6ff41559fac2bd,0.6,69,Female,Bachelor's degree,Native speaker,-9,Every day,6.0,5,3,2,1,0,0,0,0,0,0,0,0,0,0
+317548b972944303bebd5d574d760e23,0.5,21,Female,Some college,Native speaker,-10,Several times per month,4.0,3,3,5,1,0,0,0,0,0,0,1,0,0,0
+318c136c53ca4159ad7ff7a86fbc5504,0.45,35,Male,Graduate work,Native speaker,0,Several times per day,7.0,6,3,7,1,1,1,1,1,0,0,1,1,1,0
+31b084e11e2d456192c33d2b1fd1ad0b,0.75,37,Male,Some college,Native speaker,-10,Every day,4.0,5,3,4,1,0,0,1,0,0,0,0,0,1,1
+31dbf32a506143a7b431c1ac35400111,0.6,33,Female,Bachelor's degree,Native speaker,-10,Several times per day,6.0,6,3,4,1,0,1,1,0,0,1,0,0,0,0
+3298d349a6864ad883386de15d6ca7c9,0.15,47,Female,Graduate work,Native speaker,2,Several times per week,7.0,4,3,1,0,0,0,1,0,0,0,0,0,1,0
+32c4074eee7b4b9ba7bff955cce2f8f5,0.45,34,Male,Bachelor's degree,Native speaker,10,Several times per week,6.0,4,3,2,0,1,0,1,0,1,0,0,1,1,0
+330801c3d6624e18b9467e16c3386ee2,0.75,38,Male,Some college,Native speaker,-10,Every day,4.0,5,3,14,1,1,1,1,1,0,0,1,1,1,1
+330b8b0c2e3e40dd9c02419dd9e69522,0.7,29,Male,High school graduate,Native speaker,6,Every day,2.0,5,3,1,0,0,0,1,0,0,0,0,0,1,0
+331e5f4a2e464274a88b25baa63d2b68,0.5,46,Male,Bachelor's degree,Native speaker,10,Every day,6.0,5,3,3,1,1,1,0,1,0,0,0,1,0,0
+331e9862af9144ed959087cf16cd31ef,0.75,69,Male,Bachelor's degree,Native speaker,-5,Every day,6.0,5,3,1,1,0,0,0,0,0,0,0,0,0,0
+341adc8ce4b64075844ff475f784e0b3,0.45,32,Male,Bachelor's degree,Native speaker,0,Every day,6.0,5,3,1,0,0,0,1,0,0,0,0,0,1,0
+345b85ce425045f9909f168b3881c5b7,0.65,54,Female,Graduate work,Native speaker,2,Several times per day,7.0,6,3,4,1,1,0,1,0,1,0,0,1,0,0
+34d6c30421c648e8af345deab965ed75,0.65,22,Female,Bachelor's degree,Native speaker,-10,Every day,6.0,5,3,6,1,1,1,1,1,0,0,0,0,1,1
+34eaa8bb5de94457a14f06d8c2cabf41,0.5,42,Male,Some college,Native speaker,-5,Several times per month,4.0,3,3,3,1,0,1,0,0,0,1,1,0,0,0
+350134a72f9c4c3eb6e7ade25aa65d3a,0.3,60,Female,Graduate work,Native speaker,-3,Every day,7.0,5,3,1,1,0,0,0,0,0,0,1,0,0,0
+35684e4fe6444f42b54b288306b0f805,0.7,42,Male,Bachelor's degree,Native speaker,2,Every day,6.0,5,3,3,0,1,0,1,0,1,0,0,0,1,1
+3577e8cdc745462d938df1a93d270df4,0.7,32,Female,Bachelor's degree,Native speaker,-1,Every day,6.0,5,3,2,1,0,0,1,0,0,0,0,0,1,0
+360a674f0c184c4e825816a466c26f9d,0.5,44,Male,Bachelor's degree,Native speaker,-10,Every day,6.0,5,3,1,0,0,0,0,0,0,0,0,0,0,0
+364b5e5c151d48c5918cfad36ad60418,0.5,36,Male,Graduate work,Native speaker,1,Very rarely,7.0,2,3,1,1,0,0,0,0,0,0,1,0,0,0
+3699052974a74badbb6693d776f102f0,0.55,35,Male,Graduate work,Native speaker,-5,Several times per week,7.0,4,3,2,1,0,0,1,0,0,0,0,0,1,0
+370043110df94f20ae4b6020406d318c,0.55,31,Male,Bachelor's degree,Native speaker,0,Very rarely,6.0,2,3,1,0,0,0,0,0,0,0,0,0,0,0
+3712427661484e21a57921d0ad745123,0.3,46,Male,Graduate work,Native speaker,3,Several times per day,7.0,6,3,3,1,1,0,1,0,1,0,1,1,1,0
+37423b0f75f74eb197d463fc2f745f83,0.85,50,Male,Some college,Native speaker,0,Several times per day,4.0,6,3,1,1,0,0,0,0,0,0,0,0,0,0
+3744755b14854b658f4a2a3e01c21238,0.25,28,Male,Bachelor's degree,Native speaker,-5,Several times per month,6.0,3,3,1,1,0,0,0,0,0,0,1,0,0,0
+37514469aab94137a273830381516c45,0.35,62,Female,Associate degree,Native speaker,-10,Several times per day,5.0,6,3,3,1,0,1,1,0,0,1,1,0,1,0
+3755eb74fef74fd4b71b20582cab1c47,0.737,38,Male,Graduate work,Native speaker,-8,Several times per week,7.0,4,3,1,0,0,0,1,0,0,0,0,0,1,0
+37766b74c5c54217bb11b2c225412bd2,0.65,32,Female,Some college,Native speaker,0,Several times per week,4.0,4,3,1,0,0,1,0,0,0,1,0,0,0,0
+37c4fe19bd734146a67498f11074e7cd,0.95,34,Female,Bachelor's degree,Native speaker,-7,Several times per week,6.0,4,3,2,1,0,0,0,0,0,0,1,0,0,0
+37f8269b283d4b4e9cce29fecf51515a,0.05,35,Male,Bachelor's degree,Native speaker,-4,Every day,6.0,5,3,2,0,1,0,1,0,1,0,0,1,1,0
+382f44eb045f4d09824d6932a3cbcc21,0.6,31,Female,Bachelor's degree,Native speaker,-6,Several times per week,6.0,4,3,4,1,1,0,1,0,1,0,1,0,1,0
+38333bc20985469ba10ac6ba49a3ca86,0.65,39,Male,Some college,Native speaker,0,Several times per week,4.0,4,3,4,1,1,0,1,0,1,0,1,1,0,1
+383ac085a55f49a7992e2f3c62d848df,0.7,69,Female,Some college,Native speaker,9,Several times per day,4.0,6,3,1,0,1,0,0,0,1,0,0,1,0,0
+38a4b1828d624654a7e5944d5100619c,0.6,71,Male,Bachelor's degree,Native speaker,5,Every day,6.0,5,3,2,0,1,0,0,0,1,0,0,1,0,0
+38aa5c2886f7447f915492660bb29165,0.35,29,Female,Bachelor's degree,Native speaker,-6,Several times per week,6.0,4,3,1,1,0,0,0,0,0,0,1,0,0,0
+38f762dbe47b4cc2ba0d85aa940f81aa,0.8,33,Female,Some college,Native speaker,7,Very rarely,4.0,2,3,1,0,1,0,0,0,1,0,0,1,0,0
+39e2043092784344a363c12f8a01b19f,0.6,32,Male,Bachelor's degree,Native speaker,-8,Every day,6.0,5,3,5,1,1,0,1,0,1,0,1,1,1,1
+39e99bec6476433eac51d179e52ac00f,0.6,43,Male,Associate degree,Native speaker,1,Several times per week,5.0,4,3,4,0,1,0,1,0,1,0,0,1,0,0
+3a2fe5f96ca84487a09752cc89e66fe8,0.8,34,Male,Bachelor's degree,Native speaker,-6,Several times per month,6.0,3,3,2,1,1,0,0,0,1,0,1,1,0,0
+3a6552f0b25f426f965b1bfbe96ee58e,0.85,35,Male,Bachelor's degree,Native speaker,-4,Every day,6.0,5,3,6,1,1,1,1,1,0,0,0,1,1,1
+3a8dfb469b094011a3a2eca8c34d6e47,0.3,26,Male,Some college,Native speaker,-9,Never,4.0,1,3,1,1,0,0,0,0,0,0,1,0,0,0
+3b159be866764f9b86fbd88a80b81e9d,0.75,40,Male,Bachelor's degree,Native speaker,-3,Every day,6.0,5,3,3,1,0,0,1,0,0,0,0,0,1,0
+3b21d9bfa949446fa47c2e6f3ff1680f,0.5,36,Male,Associate degree,Native speaker,-4,Every day,5.0,5,3,1,1,0,0,0,0,0,0,1,0,0,0
+3b53245c0b24404194dba60040c72881,0.35,47,Female,Associate degree,Native speaker,-10,Every day,5.0,5,3,15,1,1,1,1,1,0,0,1,0,1,1
+3bd9b846360049eaa69c37cbdf03a0ef,0.55,41,Male,Bachelor's degree,Native speaker,-8,Every day,6.0,5,3,6,1,0,1,1,0,0,1,1,0,1,0
+3c19b42774aa4709b9ee1b4479a4cb69,0.7,24,Male,Bachelor's degree,Native speaker,7,Several times per day,6.0,6,3,4,1,1,0,1,0,1,0,0,1,0,0
+3c5caed09bd54866a2db73e5a677a641,0.45,35,Female,Bachelor's degree,Native speaker,-2,Every day,6.0,5,3,7,1,1,0,1,0,1,0,1,0,1,1
+3c6c282179864b8f84868e2b1a0bb531,0.6,31,Female,Graduate work,Native speaker,-9,Every day,7.0,5,3,6,1,1,1,1,1,0,0,1,0,1,1
+3c84e5770dee426ca1f35eecb8249d5e,0.8,42,Female,High school graduate,Native speaker,7,Every day,2.0,5,3,1,0,1,0,0,0,1,0,0,1,0,0
+3e0d5a481b694d1fab9eb411956a8e16,0.85,52,Female,Graduate work,Native speaker,-8,Every day,7.0,5,3,1,0,0,1,1,0,0,1,0,0,0,0
+3e34b54cd2794eb1a57e1725c54472f2,0.8,50,Female,Associate degree,Native speaker,2,Several times per day,5.0,6,3,1,0,1,0,0,0,1,0,0,0,0,0
+3f51a28c7e0145dab04136365bf7e91c,0.55,29,Female,Graduate work,Native speaker,-6,Several times per week,7.0,4,3,1,0,0,0,1,0,0,0,0,0,1,0
+3fc9434091d1416d8ac583cf09f3bfdf,0.55,35,Female,Bachelor's degree,Native speaker,2,Several times per week,6.0,4,3,3,0,0,1,0,0,0,1,0,0,0,0
+404a7d307645459ea2087dfa4ec46a80,0.05,30,Male,Bachelor's degree,Native speaker,3,Very rarely,6.0,2,3,3,1,0,0,0,0,0,0,0,0,0,0
+406110f4e1c041e8bcf09e4b403352ec,0.65,41,Male,Graduate work,Native speaker,4,Several times per day,7.0,6,3,11,1,1,1,1,1,0,0,0,0,1,1
+40fae1fd80554de89e456da27c542064,0.6,69,Male,Bachelor's degree,Native speaker,-6,Every day,6.0,5,3,11,1,1,1,1,1,0,0,1,0,1,1
+419c73f86a924866bcaedf988d15e1d3,0.45,24,Female,Bachelor's degree,Native speaker,-8,Every day,6.0,5,3,4,1,0,0,1,0,0,0,0,0,1,0
+41a21946c5ab498ebfdebc7cc139efdd,0.75,37,Male,Graduate work,Native speaker,3,Several times per day,7.0,6,3,4,1,1,0,1,0,1,0,0,0,0,1
+41b32de775da413a9e4ae86b515befdd,0.45,24,Male,Bachelor's degree,Native speaker,-6,Every day,6.0,5,3,3,1,0,1,1,0,0,1,1,0,1,0
+41f6a788809045629099c81d17b5111a,0.8,29,Male,Bachelor's degree,Native speaker,5,Several times per week,6.0,4,3,3,0,1,1,1,1,0,0,0,0,0,0
+4228bdeb188a4faa8260ae0e0cadf5e0,0.45,32,Male,Bachelor's degree,Native speaker,-1,Every day,6.0,5,3,1,1,0,0,1,0,0,0,0,0,0,0
+42a899b8c91e41759c4d615b55435013,0.2,28,Other/Prefer not to say,Bachelor's degree,Native speaker,-7,Several times per week,6.0,4,3,5,1,1,1,1,1,0,0,1,0,0,1
+42ec2c88168e4a74967c9681e8aca30e,0.55,31,Male,Some college,Native speaker,1,Every day,4.0,5,3,6,1,1,0,1,0,1,0,1,1,0,1
+43669c2fda0e4d6eb6c2a125c0638f30,0.55,31,Female,Bachelor's degree,Native speaker,10,Every day,6.0,5,3,8,1,1,0,1,0,1,0,0,1,1,0
+436e61de74764595a57a91dc64ee3010,0.5,36,Male,Associate degree,Native speaker,-8,Several times per week,5.0,4,3,3,1,1,1,0,1,0,0,0,0,0,0
+4377f0b894514398b9c21c7a379f55ea,0.35,30,Male,Bachelor's degree,Native speaker,0,Every day,6.0,5,3,1,1,0,0,0,0,0,0,1,0,0,0
+438bf2bdd5e240969456b1121355cf55,0.6,26,Female,Bachelor's degree,Native speaker,0,Several times per week,6.0,4,3,4,1,1,0,1,0,1,0,0,1,1,0
+443bc4a523bf43bfae4fbe09d62c6603,0.7,30,Male,Bachelor's degree,Native speaker,-2,Several times per week,6.0,4,3,1,1,0,0,0,0,0,0,1,0,0,0
+444efda64bc94fe3a942e2810096c5a7,0.7,30,Male,Graduate work,Native speaker,3,Several times per week,7.0,4,3,2,1,0,0,0,0,0,0,1,0,0,0
+445a591b77774ca7bf08c976944e4995,0.4,57,Male,Vocational or technical school,Native speaker,-3,Several times per day,3.0,6,3,2,0,0,1,1,0,0,1,0,0,0,1
+449bbf42b4b340df8765492af618c174,0.3,35,Female,High school graduate,Native speaker,2,Several times per day,2.0,6,3,2,0,1,1,1,1,0,0,0,1,0,0
+44eb2c0b449c4a9eb8b6c3ce65bb3ec4,0.1,31,Female,Bachelor's degree,Near-native speaker,-8,Several times per month,6.0,3,2,5,1,1,0,1,0,1,0,1,1,1,0
+44fd545ce175463481fa82263b5754cc,0.5,38,Male,Bachelor's degree,Native speaker,-10,Several times per week,6.0,4,3,1,0,0,0,0,0,0,0,0,0,0,0
+45b02d2c4ca24afc9528b6b1b4c6b149,0.5,39,Male,Bachelor's degree,Native speaker,0,Every day,6.0,5,3,2,1,0,0,1,0,0,0,1,0,0,1
+462f33181a1f47a29f8ebafc24935f86,0.55,39,Female,Associate degree,Native speaker,0,Every day,5.0,5,3,1,1,0,0,0,0,0,0,0,0,0,0
+466cc7c4af7645c7a0bfe63e46ae5de8,0.85,35,Male,Some college,Native speaker,-8,Several times per month,4.0,3,3,1,0,0,1,0,0,0,1,0,0,0,0
+469d5a14232c4af1a6749a7af211454d,0.9,32,Male,Bachelor's degree,Native speaker,-5,Several times per week,6.0,4,3,1,0,0,0,1,0,0,0,0,0,1,0
+46c1e8ffcb0d45fb928c0561ff8646c7,0.9,29,Female,Associate degree,Native speaker,-1,Several times per week,5.0,4,3,2,1,0,1,0,0,0,1,1,0,0,0
+46e21744ad1e48de89e742cfe27c9de6,0.7,37,Female,Some college,Native speaker,-1,Several times per month,4.0,3,3,1,0,0,1,0,0,0,1,0,0,0,0
+46efc3a5f74a47b1b9f15ccd5bc9c6b6,0.8,27,Male,Bachelor's degree,Native speaker,-6,Several times per week,6.0,4,3,5,1,0,1,1,0,0,1,1,0,0,1
+4726ea93214d4ea4ac0a798faa6773ef,0.55,54,Female,Graduate work,Native speaker,-8,Every day,7.0,5,3,2,1,0,0,0,0,0,0,1,0,0,0
+4742731ede87492aac2decca81281447,0.75,36,Female,Graduate work,Native speaker,-10,Several times per day,7.0,6,3,5,1,0,1,1,0,0,1,0,0,1,1
+47c2fad9b28b41548f848562c9fc1c5d,0.55,67,Female,Bachelor's degree,Native speaker,7,Every day,6.0,5,3,1,0,1,0,1,0,1,0,0,0,0,0
+4828b1270eab4feebc2a2f6062c1979f,0.75,50,Female,Bachelor's degree,Native speaker,-9,Several times per day,6.0,6,3,8,1,0,1,1,0,0,1,1,0,1,1
+4832c2de5ae045b9b95905bbbfc7094f,0.4,55,Female,Bachelor's degree,Native speaker,-10,Every day,6.0,5,3,3,1,0,1,1,0,0,1,1,0,0,1
+4850cee10e1d43e98ceab10b6c9eb130,0.9,60,Female,Associate degree,Native speaker,10,Every day,5.0,5,3,1,1,0,0,0,0,0,0,0,0,0,0
+48e9ed5f5ac34ed5b41ff874aa3a294b,0.7,35,Female,Bachelor's degree,Native speaker,9,Every day,6.0,5,3,1,1,0,0,0,0,0,0,0,0,0,0
+494fcd0ab27e4bf0aa489e041f2c0cf8,0.8,34,Male,Some college,Native speaker,8,Every day,4.0,5,3,2,0,1,0,0,0,1,0,0,1,0,0
+49640b7d7cbc419591152ec24736a6c2,0.45,29,Female,Bachelor's degree,Native speaker,-4,Several times per week,6.0,4,3,1,1,0,0,0,0,0,0,1,0,0,0
+49c71639ac014e7fb4ca67b8678bab08,0.6,38,Female,Bachelor's degree,Native speaker,5,Several times per day,6.0,6,3,1,1,0,0,0,0,0,0,1,0,0,0
+49d4c0c6c67c44b48c8eb0cb6fa60a43,0.45,48,Female,Bachelor's degree,Native speaker,-6,Every day,6.0,5,3,7,1,1,1,1,1,0,0,1,1,0,1
+49fab1bae21e4bcea965df039c139a66,0.8,35,Female,High school graduate,Native speaker,5,Every day,2.0,5,3,4,1,1,0,1,0,1,0,0,1,0,0
+4a216e126f7f4bdca764b5f3ef294c1a,0.95,35,Female,Bachelor's degree,Native speaker,9,Every day,6.0,5,3,4,1,1,0,0,0,1,0,1,1,0,0
+4a4c46fb17a5436bb9ec68c9faf5bed2,0.7,25,Female,Bachelor's degree,Native speaker,0,Several times per week,6.0,4,3,5,1,1,1,0,1,0,0,1,1,0,0
+4a4f4ed240ff456a9f1b22b006d0a8b8,0.75,24,Female,Graduate work,Native speaker,-2,Several times per day,7.0,6,3,8,1,1,1,1,1,0,0,0,0,1,1
+4a7d87cf60584230adc50f795450a402,0.8,44,Female,Graduate work,Native speaker,-10,Several times per day,7.0,6,3,5,0,0,1,1,0,0,1,0,0,1,0
+4a9d541cc0814613af566c0419d56d37,0.9,56,Female,Graduate work,Native speaker,-6,Several times per day,7.0,6,3,5,1,1,1,1,1,0,0,1,1,0,1
+4abc753edc55428288681b6efd1f04c8,0.65,37,Male,Bachelor's degree,Native speaker,-2,Several times per day,6.0,6,3,3,1,0,0,1,0,0,0,0,0,0,1
+4ac10983d1f04918b5010d1954cf6c0c,0.55,30,Male,High school graduate,Native speaker,-3,Several times per month,2.0,3,3,1,0,0,0,0,0,0,0,0,0,0,0
+4ad5f202b6dd4fa281d36cc3ebf8965d,0.55,46,Male,Bachelor's degree,Native speaker,-6,Several times per day,6.0,6,3,4,1,0,1,0,0,0,1,1,0,0,0
+4b165ba7c214480d84166d04a73fde55,0.35,32,Male,High school graduate,Native speaker,10,Every day,2.0,5,3,5,1,1,0,1,0,1,0,0,0,1,0
+4b62e13f1f434de8b5ea7683eae22186,0.2,25,Male,Associate degree,Native speaker,-1,Several times per week,5.0,4,3,4,0,0,0,1,0,0,0,0,0,1,0
+4b67be8cefa7406a961cbd62f9432316,0.75,31,Male,High school graduate,Native speaker,5,Several times per day,2.0,6,3,2,1,1,0,0,0,1,0,1,1,0,0
+4b8dc42d248c4f19be5f491ee94db791,0.65,18,Male,High school graduate,Native speaker,-6,Several times per week,2.0,4,3,4,1,1,0,1,0,1,0,1,0,1,0
+4be36edb143c43debed86abc6ff4d6ef,0.95,30,Male,Bachelor's degree,Native speaker,8,Several times per week,6.0,4,3,2,1,0,0,0,0,0,0,1,0,0,0
+4bfd87c896c64e5e9ce955a4dc48d26d,0.85,29,Male,Bachelor's degree,Native speaker,-5,Several times per week,6.0,4,3,4,1,1,0,1,0,1,0,1,0,1,0
+4c02d329cb0c47e79416dfbe9b975d32,1.0,49,Male,Bachelor's degree,Native speaker,4,Several times per month,6.0,3,3,5,1,1,0,1,0,1,0,1,1,1,0
+4cb2dfe03fcd4755988ec4b97d495eda,0.6,70,Male,Some college,Native speaker,10,Every day,4.0,5,3,1,0,1,0,0,0,1,0,0,1,0,0
+4cbcc1e9e7b6433aa5d589c767e2eee7,0.35,50,Female,Graduate work,Native speaker,-4,Several times per week,7.0,4,3,1,1,0,0,0,0,0,0,1,0,0,0
+4d00510c2e554fbf8ac37cd4c41cf349,0.9,58,Female,Bachelor's degree,Native speaker,8,Every day,6.0,5,3,5,1,1,1,1,1,0,0,1,1,0,1
+4df04ee4ae7d4a85a8f4b245f22b61a4,0.9,25,Male,Bachelor's degree,Native speaker,-5,Several times per day,6.0,6,3,1,1,0,0,0,0,0,0,0,0,0,0
+4eb63210f4f4455b880808a26be38936,0.5,32,Female,Vocational or technical school,Native speaker,5,Several times per day,3.0,6,3,1,0,1,0,0,0,1,0,0,1,0,0
+4f524a64769146bfad4b3591f69fabeb,0.9,46,Female,Associate degree,Native speaker,-1,Several times per week,5.0,4,3,1,1,0,0,0,0,0,0,0,0,0,0
+4fdde9f725fe42f494d06eda62e7d946,0.95,33,Male,Bachelor's degree,Native speaker,-9,Several times per day,6.0,6,3,7,1,0,1,1,0,0,1,1,0,1,1
+50577c742006471d980a0dc9c80143a7,0.6,68,Female,Graduate work,Native speaker,-2,Every day,7.0,5,3,4,1,1,0,1,0,1,0,1,1,1,0
+50e00570cbad4d1183195c293bbf2fa8,0.0,26,Male,High school graduate,Native speaker,2,Very rarely,2.0,2,3,7,1,1,0,1,0,1,0,1,1,1,1
+50f63b27dacd4e9eb5646ee3c15521dd,0.75,29,Female,Graduate work,Native speaker,-7,Several times per day,7.0,6,3,5,1,0,0,1,0,0,0,1,0,1,1
+5101439b4f644b83b5ab3735678897ec,0.85,32,Female,Bachelor's degree,Native speaker,0,Several times per day,6.0,6,3,3,1,0,0,0,0,0,0,1,0,0,0
+5109e4158e6741ddbb898d45f16518dd,0.55,27,Female,Some college,Native speaker,-10,Several times per week,4.0,4,3,2,0,0,0,1,0,0,0,0,0,0,1
+516892578cab4dac80335a7913ac6f26,0.55,30,Female,Bachelor's degree,Native speaker,-10,Several times per day,6.0,6,3,3,1,1,0,0,0,1,0,0,1,0,0
+517d80d55f404b6887b42bf29bf71fe2,0.55,37,Male,Some college,Native speaker,-7,Several times per day,4.0,6,3,6,0,0,1,1,0,0,1,0,0,0,1
+51816c581017446e990036135a8a221d,0.65,38,Female,Bachelor's degree,Native speaker,2,Several times per month,6.0,3,3,1,0,0,0,0,0,0,0,0,0,0,0
+5235d5cd74774577b973af983eaf67ad,0.95,27,Female,Bachelor's degree,Native speaker,1,Every day,6.0,5,3,4,1,1,0,1,0,1,0,1,1,1,0
+528658f5b4fd48bc9a644e93dce8852c,0.45,24,Male,Bachelor's degree,Native speaker,-1,Every day,6.0,5,3,5,1,1,0,1,0,1,0,0,1,1,1
+528a9c60d5a440dca8d29ce83e8699f2,0.3,32,Male,Bachelor's degree,Native speaker,-6,Several times per day,6.0,6,3,3,1,0,0,1,0,0,0,1,0,0,1
+52bea17f04734f44a89d4fb33bf92427,0.85,60,Female,Associate degree,Native speaker,-10,Several times per day,5.0,6,3,1,0,0,1,1,0,0,1,0,0,0,0
+536f27e93d1c4ca1a8bff21493510586,0.55,32,Male,Bachelor's degree,Native speaker,-7,Every day,6.0,5,3,3,1,1,0,1,0,1,0,1,1,1,0
+53c5d8d735004916bbb730f5b45293aa,0.8,59,Female,Bachelor's degree,Native speaker,-7,Several times per day,6.0,6,3,3,0,1,1,1,1,0,0,0,0,1,0
+53dd58b0bba34adf80f2bc716b339b55,0.7,28,Female,Associate degree,Native speaker,8,Every day,5.0,5,3,3,1,1,0,0,0,1,0,1,1,0,0
+54d9eeb0a892460fa9d22205a4c3f1e2,0.7,30,Female,Bachelor's degree,Native speaker,-6,Every day,6.0,5,3,1,0,0,0,0,0,0,0,0,0,0,0
+5523daf83f6f46859ec6c7f8582e6531,0.6,29,Male,Some college,Native speaker,-9,Several times per week,4.0,4,3,3,1,0,0,1,0,0,0,0,0,1,1
+55727a7b299643289619ea15890eea4c,0.55,60,Male,Some college,Native speaker,-7,Several times per day,4.0,6,3,2,1,0,1,0,0,0,1,1,0,0,0
+558a79b51d04409aa510cbb8d18ac9a0,0.4,39,Female,Graduate work,Native speaker,-7,Very rarely,7.0,2,3,1,0,0,0,1,0,0,0,0,0,1,0
+559ba9bd423244168deb6f189be14df1,0.75,48,Male,Bachelor's degree,Native speaker,-10,Several times per day,6.0,6,3,3,0,0,1,1,0,0,1,0,0,1,1
+55aeb6f0465f4a4ca84436bc87c903d0,0.45,28,Male,Associate degree,Native speaker,4,Several times per day,5.0,6,3,3,1,1,0,0,0,1,0,1,1,0,0
+56100f29c9154a57987d722906e29079,0.5,61,Female,Graduate work,Native speaker,-10,Every day,7.0,5,3,2,0,0,1,0,0,0,1,0,0,0,0
+5622336e4f684bc5a8361a90b0b09fc4,0.3,30,Male,Graduate work,Native speaker,0,Several times per week,7.0,4,3,1,1,0,0,0,0,0,0,1,0,0,0
+565beae63dc44a4eb97fa6ef4e9023a9,0.35,21,Male,Some college,Native speaker,-4,Several times per week,4.0,4,3,4,1,0,0,1,0,0,0,1,0,1,0
+56e6637ab90a4d8cb44ef0d248906baa,0.65,27,Female,Some high school,Near-native speaker,-6,Never,1.0,1,2,5,1,1,0,1,0,1,0,0,0,1,1
+57533d8f3f4e4d629d1740d6bb4c7d81,0.75,29,Male,Associate degree,Native speaker,-10,Several times per week,5.0,4,3,4,0,0,1,1,0,0,1,0,0,0,1
+576b53e190b04c069ef681223f186223,0.7,45,Female,Bachelor's degree,Native speaker,-4,Several times per day,6.0,6,3,6,1,1,0,1,0,1,0,0,0,1,1
+579a668924a0416090daef0aea1dd558,0.5,36,Male,Associate degree,Native speaker,-10,Several times per week,5.0,4,3,2,1,0,1,0,0,0,1,0,0,0,0
+57ba3d8803aa4c4ca38bca55ddb96420,0.6,52,Male,Some college,Native speaker,-9,Several times per week,4.0,4,3,1,1,0,0,0,0,0,0,1,0,0,0
+57bbc004c7a949098f10d03ad8782556,0.4,32,Female,Bachelor's degree,Native speaker,-2,Every day,6.0,5,3,1,1,0,0,0,0,0,0,1,0,0,0
+57be8f5281a74df59ba62a0f627c0db4,0.6,25,Male,Bachelor's degree,Native speaker,3,Several times per week,6.0,4,3,3,1,0,0,1,0,0,0,1,0,0,1
+5852a3da548946d5b438a771668ee66a,0.45,24,Male,Bachelor's degree,Native speaker,4,Several times per day,6.0,6,3,3,1,0,0,1,0,0,0,0,0,1,0
+58df418a7d2c4415857757703ee0957b,0.65,42,Male,Bachelor's degree,Native speaker,-8,Several times per day,6.0,6,3,4,1,1,0,1,0,1,0,1,1,1,0
+591e1eadd50b4188b3b314975583e506,0.65,25,Male,Bachelor's degree,Native speaker,7,Every day,6.0,5,3,2,1,0,0,1,0,0,0,0,0,1,0
+59dac270a1a04dabacefccca52139e04,0.85,68,Male,Bachelor's degree,Native speaker,7,Very rarely,6.0,2,3,1,0,1,0,0,0,1,0,0,1,0,0
+59f852ba24544f2eb424725d499b493d,0.2,27,Female,High school graduate,Native speaker,0,Every day,2.0,5,3,4,0,1,0,1,0,1,0,0,0,1,1
+5a0cba48a1ef456e84bda98cb738cbe6,0.0,36,Male,Vocational or technical school,Native speaker,-8,Several times per week,3.0,4,3,7,1,1,1,1,1,0,0,0,0,0,1
+5a19fb1ae7d840b699a1fd811ed758d4,0.25,46,Female,Bachelor's degree,Native speaker,6,Every day,6.0,5,3,3,1,0,1,1,0,0,1,1,0,1,0
+5a4f72b270e34727ba07a47e78d5bd8a,0.3,39,Male,High school graduate,Native speaker,-10,Several times per day,2.0,6,3,8,1,0,1,1,0,0,1,1,0,1,1
+5a77f2b29f354c5c9a23a197184d67c3,0.65,43,Male,Bachelor's degree,Native speaker,-2,Every day,6.0,5,3,4,1,0,0,1,0,0,0,1,0,0,1
+5a8d87a82cf54e9ca8df4bbb6af4f430,0.7,36,Male,Bachelor's degree,Native speaker,8,Every day,6.0,5,3,2,0,1,0,0,0,1,0,0,1,0,0
+5ac27d633de54932942475db7683c080,0.7,57,Female,Associate degree,Native speaker,-6,Several times per week,5.0,4,3,3,1,0,1,1,0,0,1,1,0,1,0
+5b1dcb1871154d5ebee7ac846c7ad5fc,0.3,27,Male,High school graduate,Native speaker,-7,Several times per day,2.0,6,3,4,1,0,0,1,0,0,0,0,0,1,1
+5b879a7cea8f41a080c1790f472ff8ac,1.0,65,Female,Vocational or technical school,Native speaker,0,Very rarely,3.0,2,3,2,0,0,0,0,0,0,0,0,0,0,0
+5b9aebd72ca54b81ab8a63d22b329f7d,0.25,45,Male,Bachelor's degree,Native speaker,10,Several times per day,6.0,6,3,5,1,0,0,1,0,0,0,1,0,1,0
+5bb7ac8b4a8a409e9a022bb86e15c1ea,0.0,39,Male,Graduate work,Native speaker,7,Every day,7.0,5,3,1,0,0,0,0,0,0,0,0,0,0,0
+5d763fa337a84a54a7b4d18300f5db5c,0.5,56,Female,Bachelor's degree,Native speaker,-7,Several times per day,6.0,6,3,2,1,1,0,0,0,1,0,1,0,0,0
+5dfbbfb787654efc9eaaba027809f91d,0.8,49,Male,Bachelor's degree,Native speaker,4,Every day,6.0,5,3,6,0,1,1,1,1,0,0,0,1,1,1
+5e67f815415544c5bf6e5509b5f9ff07,0.65,54,Male,Bachelor's degree,Native speaker,-7,Every day,6.0,5,3,2,1,1,0,0,0,1,0,1,1,0,0
+5e8769c4ae184f6791a67e1876fcfe4c,0.65,35,Male,Bachelor's degree,Native speaker,-5,Every day,6.0,5,3,3,1,0,1,0,0,0,1,1,0,0,0
+5e97c8fab812493db38d192728e4f02a,0.7,36,Female,Bachelor's degree,Native speaker,-3,Every day,6.0,5,3,1,1,0,0,1,0,0,0,0,0,0,0
+5f6ff595467b4cf5beef24ab08b1b38f,0.4,33,Female,Vocational or technical school,Native speaker,0,Very rarely,3.0,2,3,2,1,0,1,0,0,0,1,1,0,0,0
+5faad8aa9015471192e62fcc435b66d7,0.4,25,Female,Bachelor's degree,Native speaker,-10,Several times per day,6.0,6,3,3,1,0,0,1,0,0,0,0,0,1,0
+604fa944836741489fe2177eaff19f4f,0.85,65,Male,Some college,Native speaker,-6,Several times per day,4.0,6,3,5,0,1,1,0,1,0,0,0,0,0,0
+60939abc10bd404382f44dd368021c1f,0.3,30,Male,Some college,Native speaker,-5,Several times per week,4.0,4,3,3,1,0,1,1,0,0,1,1,0,0,1
+6102995dc795492fb6a835530b46cc99,0.5,33,Male,Bachelor's degree,Native speaker,-9,Every day,6.0,5,3,4,1,0,1,1,0,0,1,1,0,1,1
+613eb8adc5a749c0a3605f1714488404,0.8,37,Male,Bachelor's degree,Native speaker,10,Several times per day,6.0,6,3,1,0,1,0,0,0,1,0,0,1,0,0
+61422dbba7574a729b2a9f9a87bcb29d,0.8,57,Female,Associate degree,Native speaker,-6,Several times per week,5.0,4,3,3,1,0,1,0,0,0,1,1,0,0,0
+618a3c30359241db8c0a8f16809cccfb,0.4,34,Female,Some college,Native speaker,5,Every day,4.0,5,3,8,1,1,1,1,1,0,0,0,1,1,1
+61e7d848a46f4e2db3e7dfac1bb8c5f0,0.5,29,Male,Bachelor's degree,Native speaker,-10,Several times per week,6.0,4,3,3,0,1,1,1,1,0,0,0,0,1,0
+61efbd4ec8824f12a5bd2394bceb015d,0.95,64,Male,Bachelor's degree,Native speaker,3,Every day,6.0,5,3,1,0,1,0,0,0,1,0,0,1,0,0
+626223fbf09d467c92be9cfad191e96f,0.85,35,Female,Bachelor's degree,Native speaker,7,Several times per day,6.0,6,3,1,0,0,0,0,0,0,0,0,0,0,0
+635350598166445383b29d703cfc146b,0.6,29,Other/Prefer not to say,Bachelor's degree,Native speaker,-10,Several times per day,6.0,6,3,4,1,0,0,1,0,0,0,1,0,1,1
+63bbdd0083ca40c98b78558989cbcd16,0.95,30,Male,Bachelor's degree,Native speaker,7,Every day,6.0,5,3,3,1,1,0,0,0,1,0,1,1,0,0
+63dcbd4704b84f4e82c43952df22191d,0.1,55,Female,Some college,Native speaker,-4,Every day,4.0,5,3,4,1,0,0,0,0,0,0,1,0,0,0
+641bb47d947140c191635afd1f3ae288,0.7,27,Male,Some college,Native speaker,-8,Several times per week,4.0,4,3,6,1,1,0,1,0,1,0,1,0,0,1
+642fc85482e244518188e895c1adcf1e,0.7,32,Male,Bachelor's degree,Native speaker,-7,Every day,6.0,5,3,4,1,1,1,1,1,0,0,1,1,1,0
+646a716c501041898c55a301f7f45448,0.5,37,Female,Bachelor's degree,Native speaker,8,Several times per week,6.0,4,3,3,1,1,1,0,1,0,0,0,1,0,0
+64a813392ee743698874ddb9c4ba76e6,0.85,34,Female,High school graduate,Native speaker,2,Several times per day,2.0,6,3,1,0,1,0,0,0,1,0,0,1,0,0
+64f1e06f07f6482eb797d08cafdb394b,0.35,61,Male,Vocational or technical school,Native speaker,4,Several times per day,3.0,6,3,2,1,1,0,0,0,1,0,0,1,0,0
+654494b9e8e3434795bc175ae1aeb89d,0.55,41,Male,Bachelor's degree,Native speaker,-5,Every day,6.0,5,3,3,1,1,0,1,0,1,0,1,0,1,0
+65891eccdf4246ada7b80639ea8ce1a0,0.75,36,Male,Graduate work,Native speaker,7,Every day,7.0,5,3,5,0,1,0,1,0,1,0,0,1,1,1
+65b3435aaa77463b9dbd76cbc7a440c0,0.7,55,Female,Bachelor's degree,Native speaker,5,Every day,6.0,5,3,4,1,1,0,1,0,1,0,1,1,1,0
+65f7c65642eb418fbf426b5b08939524,0.25,35,Male,Bachelor's degree,Native speaker,9,Several times per week,6.0,4,3,2,1,1,0,0,0,1,0,1,1,0,0
+667b0e3f55184330acf034cf6aa09002,0.5,32,Male,Bachelor's degree,Native speaker,-9,Every day,6.0,5,3,5,1,1,0,1,0,1,0,0,0,1,1
+66c509bdae364806b886962b0f0e6dce,0.45,45,Female,High school graduate,Native speaker,8,Very rarely,2.0,2,3,1,0,1,0,0,0,1,0,0,1,0,0
+6713d4a7767841b988329736f33a9157,0.85,36,Male,Some college,Native speaker,2,Several times per day,4.0,6,3,6,1,1,1,0,1,0,0,1,1,0,0
+674d4d9a765a43908c6ce2b2ab4e7dff,0.85,44,Male,Bachelor's degree,Native speaker,10,Several times per day,6.0,6,3,1,0,1,0,0,0,1,0,0,1,0,0
+6752e7d329dc4752a97f753a8753c9ce,0.55,62,Female,High school graduate,Native speaker,5,Every day,2.0,5,3,1,0,1,0,0,0,1,0,0,1,0,0
+67615472ee2941db8d3393ba99c5ecda,0.55,39,Female,Bachelor's degree,Native speaker,-10,Several times per week,6.0,4,3,1,0,0,0,1,0,0,0,0,0,1,0
+67b1a97cd45d4729b475fc55424b151d,0.65,44,Male,Graduate work,Native speaker,7,Every day,7.0,5,3,1,0,0,0,0,0,0,0,0,0,0,0
+692eea972e1b44cb8c69d1def6f975d9,0.7,53,Male,Some college,Near-native speaker,5,Several times per day,4.0,6,2,5,1,1,0,1,0,1,0,0,1,0,0
+69a53f7f817f41e9b6d2e1a60a17def6,0.8,43,Male,Graduate work,Native speaker,10,Every day,7.0,5,3,6,1,1,0,1,0,1,0,1,1,1,1
+6be621ecd8554c97a3af196af76679da,0.65,26,Male,Bachelor's degree,Native speaker,7,Every day,6.0,5,3,5,1,1,0,0,0,1,0,1,1,0,0
+6ca2cca62fb5488d8c552c149d80b123,0.75,37,Female,Associate degree,Native speaker,0,Several times per week,5.0,4,3,3,1,0,1,0,0,0,1,0,0,0,0
+6ca93bf601c04f2f9201ecd9cc88db7b,0.45,55,Female,Bachelor's degree,Native speaker,-3,Several times per day,6.0,6,3,4,1,0,1,0,0,0,1,1,0,0,0
+6d04c0acd02a44ccb46c84e48fee98c9,0.9,47,Male,Associate degree,Native speaker,8,Very rarely,5.0,2,3,4,1,1,0,0,0,1,0,1,1,0,0
+6d59a4e7f00b4414bfbd6bf289137c3c,0.6,26,Female,Vocational or technical school,Native speaker,-1,Several times per month,3.0,3,3,5,1,1,0,0,0,1,0,1,1,0,0
+6d8876c8dbbf40768fd0a1feff4317fe,0.667,35,Male,Bachelor's degree,Native speaker,-9,Every day,6.0,5,3,2,0,0,1,1,0,0,1,0,0,0,1
+6dd3deda8ed14eb8aca97367811e70b9,0.55,46,Female,Bachelor's degree,Native speaker,-2,Every day,6.0,5,3,9,1,1,1,1,1,0,0,0,1,1,1
+6e31b827e3e6452b9b2f982eff8e09c5,0.6,35,Male,Some college,Native speaker,4,Very rarely,4.0,2,3,4,0,1,0,1,0,1,0,0,1,0,0
+6e471fc752534e74b99666516fb2ff22,0.5,30,Male,Bachelor's degree,Native speaker,-5,Several times per day,6.0,6,3,8,1,1,0,1,0,1,0,0,1,1,0
+6e49974c956c4cafb9840a3ca676835a,0.826,38,Male,Bachelor's degree,Native speaker,-5,Several times per week,6.0,4,3,4,1,1,0,1,0,1,0,1,1,1,0
+6f21d8eb4e254c84b7e79b2aa1ba1490,0.5,32,Female,Some college,Native speaker,-6,Several times per week,4.0,4,3,2,1,0,0,1,0,0,0,0,0,1,0
+6f68332823404b1ca9082a88436bb2d3,0.5,44,Male,Graduate work,Native speaker,-7,Every day,7.0,5,3,1,1,0,0,1,0,0,0,0,0,0,0
+6f81837b15cc4dd4bf4552a7fbd13112,0.45,36,Male,Some high school,Near-native speaker,-8,Very rarely,1.0,2,2,2,1,0,1,0,0,0,1,1,0,0,0
+6f96321ea00f40e582792a2b83f56177,0.75,30,Female,Bachelor's degree,Native speaker,-10,Several times per week,6.0,4,3,8,1,1,1,1,1,0,0,1,0,1,1
+7001473a17584a129a0d3608d54b47b2,0.55,28,Male,Bachelor's degree,Native speaker,-7,Several times per day,6.0,6,3,1,1,0,0,0,0,0,0,1,0,0,0
+7050f73aa6c64d28a5d6d32794d5c4aa,0.45,26,Male,Some college,Native speaker,-10,Several times per week,4.0,4,3,2,0,0,1,1,0,0,1,0,0,0,0
+70676c0299304bd495bb06190cfc5069,0.85,29,Female,Bachelor's degree,Native speaker,0,Every day,6.0,5,3,2,0,1,0,0,0,1,0,0,1,0,0
+708d715542a44828871899405cbf95b2,0.5,32,Male,Bachelor's degree,Native speaker,10,Several times per day,6.0,6,3,6,1,1,1,1,1,0,0,1,1,1,0
+7097d20dc549449fa52a6b1f98648987,0.8,36,Other/Prefer not to say,Bachelor's degree,Native speaker,-10,Every day,6.0,5,3,9,1,1,1,1,1,0,0,0,0,1,1
+70c8692f6b134f92bb90e30341071905,0.65,20,Male,High school graduate,Native speaker,-10,Several times per week,2.0,4,3,3,1,1,0,0,0,1,0,1,1,0,0
+70e9d2339dbb4e17b7bdaa764659ce76,0.85,30,Male,Some college,Native speaker,1,Very rarely,4.0,2,3,1,0,1,0,0,0,1,0,0,1,0,0
+710f9ef08a16426bb5b0f154bd689afd,0.55,24,Female,Some college,Native speaker,-8,Every day,4.0,5,3,2,0,0,0,1,0,0,0,0,0,0,1
+7118d8d3f26b4c45a1f9aa3e1a560c2e,0.85,40,Female,Bachelor's degree,Native speaker,1,Several times per week,6.0,4,3,4,1,1,0,0,0,1,0,1,1,0,0
+71502d04e0b449cab5f72c539e251bd6,0.55,29,Male,Associate degree,Native speaker,2,Every day,5.0,5,3,1,0,0,0,0,0,0,0,0,0,0,0
+717093d1d749468a8402479feda56e0e,0.45,38,Male,Graduate work,Native speaker,-10,Every day,7.0,5,3,1,1,0,0,0,0,0,0,0,0,0,0
+71eda724f9f648558a1e5417d68e976d,0.6,36,Female,Bachelor's degree,Native speaker,-8,Every day,6.0,5,3,1,0,0,0,1,0,0,0,0,0,0,1
+724b64f693744dcfb2874d8f967f761a,0.45,47,Female,Graduate work,Native speaker,7,Several times per week,7.0,4,3,2,1,0,0,0,0,0,0,0,0,0,0
+727182915cb9419f91ff9030946a2af6,0.55,46,Male,Bachelor's degree,Native speaker,-7,Every day,6.0,5,3,1,0,0,0,0,0,0,0,0,0,0,0
+727eeac08c9b43d3a26469428f10b5d3,0.4,25,Female,Some college,Native speaker,-8,Several times per day,4.0,6,3,7,1,1,0,1,0,1,0,1,0,1,0
+730cad77a4fe46a39b5a96bdf060fc2e,0.6,23,Female,Bachelor's degree,Native speaker,-2,Several times per week,6.0,4,3,1,1,0,0,0,0,0,0,1,0,0,0
+7314aa0f72a64425adc69608be349b11,0.6,34,Male,Bachelor's degree,Native speaker,-7,Every day,6.0,5,3,3,1,0,0,1,0,0,0,1,0,1,0
+731a5457c0604c688daf568cf897ec35,0.75,36,Male,Some college,Native speaker,-10,Several times per day,4.0,6,3,2,0,0,0,1,0,0,0,0,0,1,1
+733dfbaf56ba44ec9bb5942d16a24c76,0.65,51,Female,High school graduate,Native speaker,-7,Several times per week,2.0,4,3,3,1,0,0,1,0,0,0,1,0,1,0
+73b337140e6f424eaddc4210cd340966,0.7,32,Female,Associate degree,Native speaker,-8,Every day,5.0,5,3,1,1,0,0,0,0,0,0,0,0,0,0
+73c0e737fa834ef686a91c1e483daae2,0.6,28,Male,Graduate work,Native speaker,-3,Several times per week,7.0,4,3,8,1,1,0,1,0,1,0,1,1,1,1
+73c37e7b87a04a398a9a6d2dfd8421b8,0.7,47,Male,Bachelor's degree,Native speaker,-10,Every day,6.0,5,3,2,1,0,1,0,0,0,1,1,0,0,0
+74094b0804294b698fb29378bb6db953,0.7,44,Male,Some college,Native speaker,3,Several times per week,4.0,4,3,1,0,0,0,1,0,0,0,0,0,0,1
+745bb8b1480c4869b6160471211c84a5,0.75,27,Male,Graduate work,Native speaker,0,Several times per day,7.0,6,3,5,0,1,0,1,0,1,0,0,0,1,0
+747df343e0fd407593b5e35054a46401,0.3,57,Male,Bachelor's degree,Native speaker,3,Several times per day,6.0,6,3,7,1,1,0,1,0,1,0,0,1,0,0
+753541c8d0c64daca02e384a0ca341d4,0.35,39,Male,Graduate work,Native speaker,-10,Several times per day,7.0,6,3,2,0,0,0,1,0,0,0,0,0,1,1
+753721b199d04dd282d3dcaffd0d2203,0.55,32,Female,Associate degree,Native speaker,-1,Several times per week,5.0,4,3,5,1,1,0,1,0,1,0,0,1,1,1
+755c6b56b1c341efb56c87226d51f1d1,0.8,30,Female,High school graduate,Native speaker,-10,Several times per week,2.0,4,3,2,1,0,0,0,0,0,0,1,0,0,0
+75b102bc50104042b1881c1007ec897d,0.65,31,Male,Associate degree,Native speaker,5,Every day,5.0,5,3,1,1,0,0,0,0,0,0,0,0,0,0
+75ba96005cea49c9b313bb545b117c8e,0.85,50,Male,Associate degree,Native speaker,-4,Every day,5.0,5,3,3,1,0,0,1,0,0,0,1,0,1,0
+760f5c6c975c423f8b32eea09af4549d,0.75,34,Male,Some college,Native speaker,3,Every day,4.0,5,3,1,0,1,0,0,0,1,0,0,1,0,0
+769af15e525d43319bc3dd3cf5dfb0bb,0.9,33,Female,Bachelor's degree,Native speaker,3,Several times per week,6.0,4,3,3,1,0,0,0,0,0,0,1,0,0,0
+771fc4f6aa79492599794ce199488e06,0.5,40,Female,Vocational or technical school,Native speaker,-3,Every day,3.0,5,3,8,0,1,1,1,1,0,0,0,1,1,1
+772524e2555040c18a12d286ae0d754b,0.6,28,Male,Bachelor's degree,Native speaker,-6,Every day,6.0,5,3,1,0,0,0,0,0,0,0,0,0,0,0
+773a5182917e412cb660088b03255199,0.55,28,Male,Bachelor's degree,Native speaker,-6,Several times per day,6.0,6,3,2,1,0,0,0,0,0,0,1,0,0,0
+7823d23047de4f038bd11ef33851325e,0.85,55,Male,Some college,Native speaker,-1,Every day,4.0,5,3,5,1,1,1,0,1,0,0,1,1,0,0
+7852de2f59f3464685bf184738138ce4,0.8,40,Female,Graduate work,Native speaker,-8,Every day,7.0,5,3,2,1,0,0,1,0,0,0,1,0,0,0
+789ae43f234046e79aeee24b6e4392bc,0.35,28,Male,High school graduate,Native speaker,1,Never,2.0,1,3,6,1,1,1,1,1,0,0,0,1,0,1
+78a13bb926ad4e769c070e532246280e,0.5,44,Male,Graduate work,Near-native speaker,3,Every day,7.0,5,2,2,1,0,0,1,0,0,0,1,0,0,1
+78c5c13eb1e94759a7c3d0b87d09ce89,0.8,61,Male,Some college,Native speaker,-9,Every day,4.0,5,3,4,1,0,1,1,0,0,1,1,0,0,1
+78cf65d5368a40e3a821d65b860aad84,0.45,37,Female,Bachelor's degree,Native speaker,5,Every day,6.0,5,3,3,1,0,0,0,0,0,0,0,0,0,0
+791db9dab5774b0ea4ca48d74d96adb8,0.65,54,Female,Graduate work,Native speaker,-5,Several times per day,7.0,6,3,5,1,1,0,1,0,1,0,1,1,1,0
+795b5a2017384e2fbcbc8aba9e0b04db,0.65,45,Male,Bachelor's degree,Native speaker,-10,Several times per day,6.0,6,3,4,1,0,0,1,0,0,0,0,0,1,0
+79a43d1be6394ec7a46efb6e10ab178e,0.7,38,Male,Graduate work,Native speaker,-8,Several times per day,7.0,6,3,1,1,0,0,0,0,0,0,1,0,0,0
+79b5e3fdc5be4074a549fa2a25f4359d,0.3,53,Female,Bachelor's degree,Native speaker,0,Every day,6.0,5,3,4,1,0,0,1,0,0,0,0,0,1,1
+79dd3e81014a40a8a395ff979961bd7c,0.25,49,Male,Bachelor's degree,Native speaker,-10,Several times per day,6.0,6,3,4,0,1,1,1,1,0,0,0,0,1,1
+79e7d87e1a614a8cbd3ffc2b47d444fe,0.85,44,Male,Bachelor's degree,Native speaker,8,Every day,6.0,5,3,1,0,1,0,0,0,1,0,0,0,0,0
+7a23bc0ac180443fb0c082bc51441dff,0.8,36,Female,Bachelor's degree,Native speaker,-7,Every day,6.0,5,3,6,1,0,1,1,0,0,1,0,0,1,1
+7a36b2ff2b3648ed921db8ebd348baae,0.35,30,Female,Bachelor's degree,Native speaker,-9,Very rarely,6.0,2,3,2,1,1,0,0,0,1,0,0,0,0,0
+7a6c7ff762674efebfd1f32c5fe33782,0.9,35,Female,Bachelor's degree,Native speaker,6,Every day,6.0,5,3,1,0,0,0,0,0,0,0,0,0,0,0
+7aa54a10b6724f80a6e6de0c56114101,0.55,42,Female,Graduate work,Native speaker,-8,Several times per day,7.0,6,3,3,1,0,0,1,0,0,0,1,0,1,0
+7b802648df7f4341aa6ab79b127c1a5a,0.7,34,Male,Bachelor's degree,Native speaker,-5,Every day,6.0,5,3,3,1,0,0,1,0,0,0,1,0,1,1
+7bc3ee6759cb4b02960bc7b402d03e4c,0.25,23,Male,Bachelor's degree,Native speaker,-4,Very rarely,6.0,2,3,7,1,1,1,1,1,0,0,1,0,1,1
+7c3bfa486f2e4286a908ce81a9555371,0.75,40,Male,High school graduate,Native speaker,-6,Several times per week,2.0,4,3,1,0,0,0,0,0,0,0,0,0,0,0
+7c4a352abb7d4dab944fcfa339f4b317,0.65,51,Female,Vocational or technical school,Near-native speaker,-2,Every day,3.0,5,2,2,1,0,0,0,0,0,0,1,0,0,0
+7d3c6fd93e4e41dd8af1c3fe5a4bbb68,0.8,47,Female,Some college,Native speaker,3,Several times per week,4.0,4,3,1,1,0,0,0,0,0,0,1,0,0,0
+7d78145218e640958e79de43da628f8a,0.45,36,Male,Some college,Native speaker,-9,Every day,4.0,5,3,3,1,0,0,1,0,0,0,1,0,1,1
+7dbb493a665742ffa8492ef737356710,0.5,33,Female,Bachelor's degree,Native speaker,6,Several times per day,6.0,6,3,3,0,1,0,1,0,1,0,0,0,1,0
+7ddc9e8805604da2abb267ea6d15daf6,0.55,38,Male,Bachelor's degree,Native speaker,-10,Every day,6.0,5,3,14,1,1,1,1,1,0,0,1,0,1,1
+7e0e19f89ad44f1f89d2fab6ca808597,0.8,47,Male,Bachelor's degree,Native speaker,7,Every day,6.0,5,3,4,1,1,0,0,0,1,0,1,1,0,0
+7e9e6853bb3144ddbd7fc90303bcf6e8,0.85,35,Female,Associate degree,Native speaker,0,Every day,5.0,5,3,2,1,1,0,0,0,1,0,1,1,0,0
+7ee493bf3fb24cdda40cd318a7547799,0.7,31,Female,Graduate work,Native speaker,-7,Several times per day,7.0,6,3,2,1,0,0,1,0,0,0,1,0,1,0
+7fecc0228b3b42b5b7b1deed684f9fea,0.5,38,Male,Bachelor's degree,Native speaker,-7,Several times per day,6.0,6,3,1,1,0,0,0,0,0,0,1,0,0,0
+7ff9e5a8a0364449b7a39bec7d5bb07e,0.7,38,Male,Graduate work,Native speaker,9,Several times per day,7.0,6,3,3,0,1,0,1,0,1,0,0,1,0,0
+81287537c3f64a358cf08c6c38fa0425,0.7,36,Male,Graduate work,Native speaker,10,Several times per day,7.0,6,3,4,0,1,1,0,1,0,0,0,1,0,0
+81482b0422dd49f883f83847d11145b7,0.5,31,Male,Graduate work,Native speaker,-7,Every day,7.0,5,3,2,1,0,0,1,0,0,0,0,0,0,1
+815dbd44d5da45d3a33177754db0c837,0.85,23,Female,Associate degree,Native speaker,-7,Several times per week,5.0,4,3,1,1,0,0,0,0,0,0,0,0,0,0
+8246973f557546cb86eaec67f23d5a0c,0.7,28,Female,Bachelor's degree,Native speaker,-7,Several times per day,6.0,6,3,2,0,0,0,1,0,0,0,0,0,1,1
+8257284511ed4706b5fb16817cdc41f1,0.8,32,Male,Graduate work,Native speaker,-8,Several times per day,7.0,6,3,2,1,0,0,0,0,0,0,1,0,0,0
+826a39df418443cc969093001f552b0a,0.6,34,Other/Prefer not to say,Some college,Native speaker,-10,Every day,4.0,5,3,3,0,0,1,1,0,0,1,0,0,0,1
+82a320d125c64bf985f185b8af1b3d5f,0.75,24,Female,Graduate work,Native speaker,-1,Several times per day,7.0,6,3,1,0,0,0,1,0,0,0,0,0,0,1
+83b9cef1aa8743c18ad3e0c7d0087ea3,0.7,33,Female,Some college,Native speaker,-10,Every day,4.0,5,3,3,1,0,1,1,0,0,1,0,0,1,0
+83d60942a3034c8eac9ee53dba1e6ada,0.8,39,Male,Bachelor's degree,Native speaker,7,Several times per day,6.0,6,3,4,1,1,0,1,0,1,0,0,1,1,1
+8405a4aa5e074a5680064a975a7442f8,0.75,38,Male,Bachelor's degree,Native speaker,9,Every day,6.0,5,3,3,0,1,0,0,0,1,0,0,1,0,0
+848568de27134f25b9bcd97f2b98b2d1,0.65,25,Male,Bachelor's degree,Native speaker,-10,Every day,6.0,5,3,4,1,0,0,1,0,0,0,0,0,0,1
+84b9c9cbf42d49d3920020f4e764af4c,0.4,38,Male,Some college,Native speaker,-10,Every day,4.0,5,3,6,1,0,1,1,0,0,1,1,0,0,1
+8512a57791db4292bc88cd661e60f53e,0.3,43,Female,Bachelor's degree,Native speaker,-10,Several times per day,6.0,6,3,1,1,0,0,0,0,0,0,1,0,0,0
+852e10accf56465481afa723f69da780,0.35,32,Male,Bachelor's degree,Native speaker,-8,Every day,6.0,5,3,1,1,0,0,0,0,0,0,1,0,0,0
+856b92694cd6488387c31797e7677511,0.4,57,Female,Bachelor's degree,Native speaker,-8,Several times per day,6.0,6,3,1,0,0,0,1,0,0,0,0,0,1,0
+85b31749ac434ee6ab6308bc29b849fe,0.85,27,Female,Bachelor's degree,Native speaker,2,Several times per week,6.0,4,3,2,1,0,0,1,0,0,0,1,0,0,1
+85dd6c82e2954f58a6c9362b37ce822b,0.55,47,Female,Bachelor's degree,Native speaker,0,Every day,6.0,5,3,1,1,0,0,0,0,0,0,0,0,0,0
+85fe18cce7b54b5891317f90c66facb9,0.6,37,Female,Bachelor's degree,Native speaker,-10,Every day,6.0,5,3,9,1,1,1,1,1,0,0,0,0,1,1
+8732f442a93e459a8ebd81e3f15bed2e,0.1,25,Male,Bachelor's degree,Native speaker,10,Several times per day,6.0,6,3,2,1,0,0,1,0,0,0,1,0,1,0
+8782331464ce46e487d5b03e9ec111f7,0.7,37,Male,Associate degree,Native speaker,10,Several times per day,5.0,6,3,5,1,1,1,1,1,0,0,1,1,0,1
+87e92f13702f482a822164cc368c5c1a,0.6,27,Female,Some college,Native speaker,-4,Several times per week,4.0,4,3,1,0,0,0,1,0,0,0,0,0,0,1
+880e3da9c9bb4ad9ba6fd2c1bee559e5,0.6,66,Male,Associate degree,Native speaker,9,Every day,5.0,5,3,1,0,1,0,0,0,1,0,0,1,0,0
+886dc5527e91439f93cb4068d4a0c78a,0.75,40,Female,Associate degree,Native speaker,0,Every day,5.0,5,3,2,1,0,0,0,0,0,0,0,0,0,0
+88dc31ba5c184ad78f8cb83bfa530a29,0.7,37,Male,Some college,Native speaker,10,Several times per month,4.0,3,3,1,0,1,0,0,0,1,0,0,1,0,0
+88e1d564fba14d07bbdc4b29b7f6bc6f,0.55,47,Female,Graduate work,Native speaker,-10,Every day,7.0,5,3,5,1,0,0,1,0,0,0,1,0,1,0
+890a86c789e84b3986d1d965254c7641,0.75,25,Male,Bachelor's degree,Native speaker,3,Very rarely,6.0,2,3,2,1,0,1,0,0,0,1,1,0,0,0
+8964f84188194e24a36f1e82e441d5dc,0.1,25,Male,Bachelor's degree,Native speaker,8,Every day,6.0,5,3,2,0,1,0,1,0,1,0,0,1,0,0
+89ac70228d6b427aa84c1394d2b241ec,0.75,57,Female,Graduate work,Native speaker,-8,Several times per day,7.0,6,3,5,1,0,1,1,0,0,1,1,0,1,1
+89c858c7e07a463a893b4469fa688948,0.45,23,Female,Some college,Native speaker,5,Several times per week,4.0,4,3,6,1,1,0,1,0,1,0,0,0,1,1
+8a7e0deaeac244fb901945cb40503e76,0.6,37,Male,Bachelor's degree,Native speaker,-10,Very rarely,6.0,2,3,3,1,1,0,1,0,1,0,0,0,0,0
+8a95ab00c78145829776c53dba7187da,0.65,42,Male,Bachelor's degree,Native speaker,-9,Several times per day,6.0,6,3,5,0,0,1,1,0,0,1,0,0,1,1
+8aae758680b54860b63613c546781ed3,0.25,30,Male,High school graduate,Native speaker,6,Every day,2.0,5,3,1,0,1,0,0,0,1,0,0,1,0,0
+8b31d111ac0245a3b5c5812845090078,0.6,60,Male,Some college,Native speaker,-8,Several times per day,4.0,6,3,3,1,0,1,1,0,0,1,1,0,0,1
+8b5520befd87450e8a9c508bc710891c,0.45,29,Male,Some high school,Near-native speaker,-10,Several times per day,1.0,6,2,5,1,1,1,1,1,0,0,0,0,1,1
+8c3166c5fb314a8a808fd2bde22c4fa6,0.7,33,Male,Graduate work,Native speaker,-3,Every day,7.0,5,3,10,1,1,1,1,1,0,0,1,1,1,1
+8cb8c69d693d4ec2b00f693b6da813d3,0.3,36,Male,Bachelor's degree,Native speaker,0,Every day,6.0,5,3,1,0,0,0,0,0,0,0,0,0,0,0
+8cc272326faa4fd8a406686ebddc5c9b,0.35,31,Male,Associate degree,Native speaker,3,Every day,5.0,5,3,3,1,1,0,0,0,1,0,1,1,0,0
+8cf8fbba03cf42bcb304da1e2a32f625,0.4,36,Male,Some college,Native speaker,-5,Every day,4.0,5,3,1,1,0,0,1,0,0,0,0,0,0,0
+8d141f5666754b86bdff107731f5d1f2,0.65,26,Male,Bachelor's degree,Native speaker,-9,Several times per day,6.0,6,3,7,1,1,1,1,1,0,0,0,1,1,1
+8d19399cdfa04cd58e4180c23769f208,0.4,34,Male,Bachelor's degree,Native speaker,-7,Every day,6.0,5,3,4,1,0,0,0,0,0,0,1,0,0,0
+8e2c5b2b4510488cb8519fcba8347435,0.35,60,Female,Some college,Native speaker,-8,Several times per day,4.0,6,3,3,1,0,0,0,0,0,0,1,0,0,0
+8e33a9b79c2841cdb6f56846d713a8b4,0.85,31,Female,Associate degree,Native speaker,-7,Several times per day,5.0,6,3,13,1,1,1,1,1,0,0,1,0,1,1
+8e50d7448f794bfabaf5cb53a0d0b390,0.75,45,Male,Bachelor's degree,Native speaker,-1,Several times per week,6.0,4,3,1,1,0,0,0,0,0,0,1,0,0,0
+8e8eefc929754de3be9037e71f328ead,0.65,51,Female,Bachelor's degree,Native speaker,-10,Several times per day,6.0,6,3,3,1,0,1,1,0,0,1,1,0,1,0
+8ed49df15fa4426eaf7b5d2a9564e7a4,0.35,41,Male,Graduate work,Native speaker,-8,Several times per week,7.0,4,3,2,1,0,0,1,0,0,0,1,0,1,0
+8f62243af70043feb4385506be045619,0.7,30,Female,Graduate work,Native speaker,0,Very rarely,7.0,2,3,1,0,1,0,0,0,1,0,0,1,0,0
+90334e8129244faf8bb7ce2403bccc8b,0.3,60,Male,Vocational or technical school,Native speaker,-8,Several times per day,3.0,6,3,3,1,0,1,1,0,0,1,1,0,0,1
+904dd142317d4e9ca3c9a3a740225de3,0.5,38,Female,Bachelor's degree,Native speaker,1,Very rarely,6.0,2,3,1,0,0,0,0,0,0,0,0,0,0,0
+906ae68182cb41f5a56a452fdf799aac,0.75,45,Female,Bachelor's degree,Native speaker,-5,Several times per week,6.0,4,3,3,1,0,1,1,0,0,1,0,0,1,0
+9109a430b6944f3ba53f39d5cd38c5ad,0.8,33,Male,High school graduate,Native speaker,0,Every day,2.0,5,3,2,1,0,0,0,0,0,0,0,0,0,0
+911b3b1d437a40af9f3a0dd8cfd76f1c,0.55,29,Male,Bachelor's degree,Native speaker,-10,Every day,6.0,5,3,9,1,1,1,1,1,0,0,1,0,1,0
+920a2c534f844e06b4c910cf606c29df,0.7,26,Male,Bachelor's degree,Native speaker,-10,Every day,6.0,5,3,4,1,0,0,1,0,0,0,1,0,1,1
+9220e8b5578043429ce0e13ebc8560c4,0.3,47,Male,Graduate work,Native speaker,-6,Every day,7.0,5,3,11,1,1,1,1,1,0,0,1,0,1,1
+922af66fad644d358446a75846d9cea3,0.9,59,Female,Bachelor's degree,Native speaker,-6,Every day,6.0,5,3,1,1,0,0,0,0,0,0,1,0,0,0
+9241344444f646d1a09bf1039293c864,0.35,49,Female,Bachelor's degree,Native speaker,5,Every day,6.0,5,3,1,0,1,0,0,0,1,0,0,1,0,0
+9249298ba7274825a9e17f6434fea6e6,0.75,55,Female,Associate degree,Native speaker,-6,Several times per day,5.0,6,3,1,0,0,1,0,0,0,1,0,0,0,0
+9282f63115d74a188c90f5db6447a07c,0.5,28,Male,Bachelor's degree,Native speaker,-9,Every day,6.0,5,3,1,0,0,0,0,0,0,0,0,0,0,0
+92ad1a59ba3c44b880e5bffef6a15fb0,0.4,30,Female,Bachelor's degree,Native speaker,-6,Every day,6.0,5,3,2,1,1,0,0,0,1,0,1,1,0,0
+92ae3570dcbc4748acb9a8ff5afc4c5d,0.5,35,Male,Bachelor's degree,Native speaker,-8,Every day,6.0,5,3,6,1,0,1,1,0,0,1,0,0,0,1
+92bf022dc3d64afc905e8f8eba395bea,0.45,30,Female,Graduate work,Native speaker,-3,Every day,7.0,5,3,1,1,0,0,0,0,0,0,1,0,0,0
+9355b1938c394795a20688df1cb78a53,0.9,25,Male,Bachelor's degree,Native speaker,10,Every day,6.0,5,3,7,1,1,0,1,0,1,0,1,1,1,0
+937a515ffca341b9ba9a08ebb121e8b1,0.7,28,Male,Some college,Native speaker,4,Several times per month,4.0,3,3,1,1,0,0,0,0,0,0,1,0,0,0
+93a59cfecb994b4faf4c8989b6842451,0.8,31,Male,I prefer not to say,Near-native speaker,-8,Every day,6.0,5,2,4,1,0,1,1,0,0,1,1,0,1,1
+93be9609e9b849a197b36fb097b3018a,0.5,25,Female,Bachelor's degree,Native speaker,-10,Every day,6.0,5,3,2,1,0,0,0,0,0,0,0,0,0,0
+942c9a0492a84657b8c8adb49e9eb959,0.7,45,Male,Vocational or technical school,Native speaker,3,Several times per week,3.0,4,3,2,1,1,0,0,0,1,0,0,1,0,0
+94402d5ce3ec45598950503aad17b23d,0.45,54,Female,Bachelor's degree,Native speaker,-1,Every day,6.0,5,3,3,1,0,1,1,0,0,1,0,0,1,0
+945bf2fe656243a2b656b4c96b281903,0.6,43,Other/Prefer not to say,I prefer not to say,Native speaker,-3,Several times per week,6.0,4,3,3,1,1,0,1,0,1,0,0,0,0,0
+94d58391934248058d26b389d4d40647,0.65,23,Male,Bachelor's degree,Native speaker,-10,Several times per day,6.0,6,3,5,1,1,0,1,0,1,0,0,1,1,0
+956b4206cd2c4d88b632266a48fbba10,0.85,32,Female,Bachelor's degree,Native speaker,2,Every day,6.0,5,3,3,1,1,0,0,0,1,0,1,1,0,0
+95ad7f5919bd4a038464f371d1920ec8,0.8,25,Male,Bachelor's degree,Native speaker,7,Every day,6.0,5,3,2,0,1,0,1,0,1,0,0,1,1,0
+95c416dc43ad45a6b959c13528e8d494,0.9,53,Male,Some college,Native speaker,2,Several times per day,4.0,6,3,1,0,1,0,0,0,1,0,0,0,0,0
+95eac12e78f74132956460348f603bea,1.0,41,Male,Bachelor's degree,Native speaker,6,Every day,6.0,5,3,3,1,1,0,0,0,1,0,1,1,0,0
+95ee3dae0a474c03bd14db348c65ad71,0.6,39,Male,Bachelor's degree,Native speaker,-8,Several times per day,6.0,6,3,4,1,0,0,1,0,0,0,1,0,1,1
+95fd5cf9194f4610b4126b19d390c913,0.55,28,Male,Bachelor's degree,Native speaker,6,Several times per week,6.0,4,3,2,0,1,0,1,0,1,0,0,1,1,0
+9696366ace2c4778af551fcda89ed858,0.75,61,Male,Some college,Native speaker,-10,Every day,4.0,5,3,3,1,0,1,1,0,0,1,1,0,0,1
+96c9e2d7f54447bcbf64a207da78290e,0.75,52,Female,Bachelor's degree,Native speaker,-7,Every day,6.0,5,3,3,0,1,0,1,0,1,0,0,0,1,1
+96f5493939004e83a33c7d23e6f66446,0.5,28,Male,Some college,Native speaker,5,Several times per day,4.0,6,3,5,1,1,0,1,0,1,0,1,1,1,1
+96f6159d1e0341c8a1d3b72a5bf40b22,0.75,31,Male,High school graduate,Native speaker,-6,Several times per month,2.0,3,3,4,1,1,1,1,1,0,0,1,0,0,0
+977b13fe286543dd8e94a50c2128802d,0.8,28,Female,Graduate work,Native speaker,-10,Several times per day,7.0,6,3,9,1,1,1,1,1,0,0,1,0,1,0
+97b003bf2cdc4b93a1e778f85e16d236,0.5,30,Female,Bachelor's degree,Native speaker,-9,Several times per week,6.0,4,3,2,0,0,0,1,0,0,0,0,0,1,1
+97c628c7e04a47e9a62c25d50f7416b2,0.5,29,Male,Bachelor's degree,Native speaker,-10,Several times per week,6.0,4,3,1,0,0,0,1,0,0,0,0,0,1,0
+98159e8048e74ce49a0048fa061630cf,0.8,59,Female,Bachelor's degree,Native speaker,2,Every day,6.0,5,3,1,1,0,0,0,0,0,0,0,0,0,0
+983d92059f634a538f720887e8831976,0.75,50,Male,Some college,Native speaker,5,Several times per day,4.0,6,3,1,0,1,0,0,0,1,0,0,0,0,0
+986d331c8687405faffb496650913624,0.35,28,Male,Bachelor's degree,Native speaker,6,Every day,6.0,5,3,1,0,1,0,0,0,1,0,0,1,0,0
+98881d07d68f4b8395225e29d821d599,0.6,37,Male,Graduate work,Native speaker,-6,Every day,7.0,5,3,1,0,0,0,1,0,0,0,0,0,1,0
+989e3226199649948b5bda45422e6ced,0.75,34,Male,Bachelor's degree,Native speaker,0,Several times per week,6.0,4,3,1,0,0,0,0,0,0,0,0,0,0,0
+99251f3bb8a3450fb4c009cf3aaca704,0.7,37,Male,Bachelor's degree,Native speaker,1,Several times per week,6.0,4,3,1,1,0,0,0,0,0,0,1,0,0,0
+992cc74e480e414f911743bf29bacafe,0.75,29,Male,Bachelor's degree,Native speaker,10,Several times per week,6.0,4,3,2,1,0,0,0,0,0,0,0,0,0,0
+99b81c2b49544d1e90d6f228bb899be8,0.7,29,Female,Bachelor's degree,Near-native speaker,0,Every day,6.0,5,2,5,1,1,0,0,0,1,0,1,1,0,0
+99dcea1f077041c99e4896249e6e636a,0.75,30,Male,High school graduate,Native speaker,-1,Several times per day,2.0,6,3,8,1,1,1,1,1,0,0,0,0,0,0
+9a5b041c140b48b28eb72bea0e05801e,0.7,29,Male,Bachelor's degree,Native speaker,-10,Several times per day,6.0,6,3,6,1,1,0,1,0,1,0,0,0,1,1
+9a6a89e0a853460083deab3eb6edc585,0.8,30,Female,Some college,Native speaker,-1,Very rarely,4.0,2,3,1,0,0,1,0,0,0,1,0,0,0,0
+9a98e79c24924189baad9a056732a194,0.8,28,Male,Bachelor's degree,Native speaker,-10,Several times per month,6.0,3,3,1,1,0,0,0,0,0,0,0,0,0,0
+9aa1b966d5d744a2b019bc49c1aeb1f7,0.25,32,Female,Associate degree,Native speaker,-1,Never,5.0,1,3,1,0,0,0,0,0,0,0,0,0,0,0
+9b20f3bb1dba40959cc159c2dd490c38,0.85,40,Male,Associate degree,Native speaker,1,Every day,5.0,5,3,1,1,0,0,0,0,0,0,0,0,0,0
+9b280996246a4c2692c233c261fe2f14,0.7,48,Female,Associate degree,Native speaker,8,Every day,5.0,5,3,3,0,1,0,1,0,1,0,0,1,1,0
+9b50697a6dc94bb8bad3ac06d44780b9,0.75,25,Female,Bachelor's degree,Native speaker,-4,Several times per day,6.0,6,3,4,1,0,1,1,0,0,1,0,0,1,1
+9b870e40f02e4180bb8ae6fc0eb962e5,0.85,33,Male,Some college,Native speaker,10,Several times per day,4.0,6,3,4,1,1,0,1,0,1,0,1,1,1,0
+9c0ddfe5f6784c3e88fc966398b0b088,0.4,56,Male,Some college,Native speaker,-7,Every day,4.0,5,3,3,1,0,0,1,0,0,0,1,0,1,0
+9c67f4dd63b547f1b1957bcaf5c29351,0.6,35,Male,Some college,Native speaker,-5,Several times per month,4.0,3,3,1,0,0,1,1,0,0,1,0,0,0,0
+9c87faeb0509434f89b9a7ee6307c760,0.6,30,Female,Graduate work,Native speaker,-8,Every day,7.0,5,3,1,0,0,0,1,0,0,0,0,0,1,0
+9d0406eccca84a2ba26b461e262a9adf,0.85,37,Male,Associate degree,Native speaker,-7,Several times per day,5.0,6,3,8,1,1,1,1,1,0,0,1,1,1,1
+9d1c23cc22be4952b838397890373975,0.5,29,Female,Bachelor's degree,Native speaker,-5,Several times per week,6.0,4,3,1,1,0,0,0,0,0,0,1,0,0,0
+9d686e9bf2e14663a5724199a2637412,0.2,25,Male,Vocational or technical school,Native speaker,-5,Very rarely,3.0,2,3,1,0,0,0,1,0,0,0,0,0,0,1
+9d859ecc2ce54c87bf4d15896a5848bd,0.5,34,Female,High school graduate,Native speaker,-6,Every day,2.0,5,3,2,0,0,1,0,0,0,1,0,0,0,0
+9d988515142d4c37a81e006cf1f34d65,0.55,35,Male,Bachelor's degree,Native speaker,-8,Every day,6.0,5,3,12,1,1,1,1,1,0,0,1,1,1,1
+9dbe7fb1393b4067b5edfec9087583f4,0.55,31,Male,Bachelor's degree,Native speaker,-4,Several times per day,6.0,6,3,1,1,0,0,0,0,0,0,1,0,0,0
+9dce6efe6fdb414ebf53b8875e772f00,0.7,57,Female,Vocational or technical school,Native speaker,-7,Several times per month,3.0,3,3,3,1,1,1,0,1,0,0,0,1,0,0
+9e722ceea1274f0fa2d8776804a4d85f,0.65,22,Male,Some college,Native speaker,0,Very rarely,4.0,2,3,7,1,1,0,0,0,1,0,0,1,0,0
+9eb8e4091af34b83a050350f3c129bbb,0.4,54,Female,Associate degree,Native speaker,-9,Several times per day,5.0,6,3,5,1,1,1,1,1,0,0,1,0,0,1
+9ebbf4c1195e4d508b1f19df7bf1a79c,0.6,42,Male,Bachelor's degree,Native speaker,-3,Every day,6.0,5,3,8,1,1,0,1,0,1,0,1,1,1,0
+9ed37ffbe1974c69913c562d6b2764e3,0.4,29,Female,Bachelor's degree,Native speaker,0,Every day,6.0,5,3,2,0,0,1,1,0,0,1,0,0,1,0
+9f3aad57a4384643a6b0b79a4f3bf62f,0.8,59,Female,Associate degree,Native speaker,-8,Several times per day,5.0,6,3,1,1,0,0,0,0,0,0,0,0,0,0
+a002e8986c354525adb118dc362f88d9,0.95,40,Male,Graduate work,Near-native speaker,7,Every day,7.0,5,2,3,1,1,0,1,0,1,0,0,0,0,0
+a0309604066d4524b0555e5153d06669,0.55,25,Female,Bachelor's degree,Native speaker,6,Several times per month,6.0,3,3,1,1,0,0,0,0,0,0,1,0,0,0
+a0704ce2fb56449895c36c1c45235254,0.45,32,Female,Associate degree,Native speaker,3,Every day,5.0,5,3,1,0,1,0,0,0,1,0,0,1,0,0
+a0829c32c3ba4359827f2a2234c93198,0.85,27,Female,Some college,Native speaker,4,Several times per month,4.0,3,3,1,0,1,0,0,0,1,0,0,1,0,0
+a0a6f29b544a4ef3961de441c5551e2b,0.7,29,Female,Bachelor's degree,Native speaker,-10,Every day,6.0,5,3,4,1,1,0,1,0,1,0,1,1,1,0
+a15320fc4d934d748ffe0cb031f3c2c2,0.6,32,Male,Graduate work,Native speaker,-10,Several times per day,7.0,6,3,2,0,0,0,1,0,0,0,0,0,1,1
+a1bea887f4ea474091f948c3839b6f39,0.7,69,Female,Some college,Native speaker,10,Several times per day,4.0,6,3,1,0,1,0,0,0,1,0,0,1,0,0
+a20a5d4f9d3a4a8eb681a2bf371c68d0,0.65,39,Male,Bachelor's degree,Native speaker,7,Every day,6.0,5,3,6,1,1,1,1,1,0,0,0,0,0,1
+a2284a2cd0a14134b32ef60838699b37,0.45,44,Female,Bachelor's degree,Near-native speaker,8,Several times per day,6.0,6,2,1,0,0,0,1,0,0,0,0,0,1,0
+a2391bd824fd45e5a3e776f7d63a5b67,0.65,50,Female,Bachelor's degree,Native speaker,1,Several times per day,6.0,6,3,3,0,1,0,1,0,1,0,0,0,1,0
+a2b4c8b010a04c97ac4066426a48e290,0.65,35,Male,Bachelor's degree,Native speaker,8,Several times per week,6.0,4,3,5,0,1,1,1,1,0,0,0,1,1,0
+a324a8db18704ed7aa9c321a17e4c58a,0.55,66,Female,Graduate work,Native speaker,-7,Every day,7.0,5,3,3,1,0,1,0,0,0,1,1,0,0,0
+a3bcb45cd03c4de6b004750f63f421a2,0.3,31,Female,Some college,Native speaker,-1,Every day,4.0,5,3,7,1,1,1,0,1,0,0,1,0,0,0
+a3bd142456384d13a813a064d0d0a946,0.35,26,Male,Bachelor's degree,Native speaker,-8,Very rarely,6.0,2,3,5,1,0,0,1,0,0,0,1,0,1,1
+a3da5899fc0e4f60945812e601ca41d6,0.65,29,Female,Graduate work,Native speaker,0,Several times per week,7.0,4,3,6,1,1,1,1,1,0,0,1,0,1,0
+a466a74e794c46a7bdcbdffa99cc7da3,0.45,40,Female,Graduate work,Native speaker,-2,Every day,7.0,5,3,5,1,1,1,0,1,0,0,1,1,0,0
+a49ecd5d25994e7b946cdf7a21d3c982,0.6,26,Male,Vocational or technical school,Native speaker,-6,Several times per month,3.0,3,3,2,1,0,0,0,0,0,0,1,0,0,0
+a4d96dcfaefe4716acd8d56bb3a1f831,0.8,39,Female,Bachelor's degree,Native speaker,9,Every day,6.0,5,3,2,0,1,0,0,0,1,0,0,1,0,0
+a53a59d3d76d4f6f806f9c402cffb0c1,0.85,45,Female,Bachelor's degree,Native speaker,-10,Several times per day,6.0,6,3,1,0,0,0,1,0,0,0,0,0,1,0
+a55d021d90134ddfbc28016239cae526,0.75,38,Female,Bachelor's degree,Native speaker,7,Several times per month,6.0,3,3,1,1,0,0,1,0,0,0,0,0,0,0
+a561bf4a2d81472680c66575a05a475e,0.8,44,Male,Bachelor's degree,Native speaker,10,Several times per day,6.0,6,3,1,0,1,0,0,0,1,0,0,1,0,0
+a57fed25dad44f08a3af7fd6b40fb996,0.55,45,Male,Bachelor's degree,Native speaker,3,Several times per day,6.0,6,3,7,1,1,1,1,1,0,0,1,0,1,0
+a5e7d89b8e1c4e1385283a2c648cce48,0.4,55,Female,High school graduate,Native speaker,-10,Every day,2.0,5,3,2,1,0,0,1,0,0,0,0,0,1,0
+a6405289e6764f3ab1237bff338cd1a0,0.25,40,Female,Graduate work,Native speaker,-10,Several times per week,7.0,4,3,1,0,0,0,0,0,0,0,0,0,0,0
+a64e8ffbb33346528e2dba4903fdd9d2,0.6,33,Male,Vocational or technical school,Native speaker,10,Every day,3.0,5,3,5,1,1,0,1,0,1,0,0,1,0,0
+a6bb950276104e22b79b03bc5bc368e0,0.45,30,Male,Some college,Native speaker,-3,Every day,4.0,5,3,10,1,1,1,1,1,0,0,1,0,1,1
+a6be517b48ef4d7c90d3019404da6d50,0.35,53,Female,Some college,Native speaker,10,Every day,4.0,5,3,1,0,1,0,0,0,1,0,0,0,0,0
+a6e3e9d4d7bf4e3baf031a5ff8a5923e,0.55,42,Male,Some college,Native speaker,7,Every day,4.0,5,3,3,1,0,1,0,0,0,1,1,0,0,0
+a702207313de403aad2676ce277982db,0.55,36,Male,Some college,Native speaker,-2,Several times per month,4.0,3,3,2,1,0,0,0,0,0,0,1,0,0,0
+a71ca9e3d96246e78f7c9540325ade2e,0.6,49,Female,Bachelor's degree,Native speaker,-7,Every day,6.0,5,3,9,1,1,0,1,0,1,0,1,1,1,0
+a71da9c25167465bbba064dd35d782f2,0.6,55,Male,Some high school,Native speaker,0,Every day,1.0,5,3,2,1,0,0,1,0,0,0,1,0,0,1
+a7dd400e3c75424696be465a8b7f1266,0.8,40,Female,Bachelor's degree,Native speaker,0,Several times per week,6.0,4,3,1,0,0,1,0,0,0,1,0,0,0,0
+a7df04e539794b7e9843f0904c2fc5ee,0.45,30,Male,Associate degree,Native speaker,-9,Every day,5.0,5,3,2,1,1,0,0,0,1,0,1,0,0,0
+a8a307f8575949b2b0087fe43fabc14c,0.85,52,Male,Bachelor's degree,Native speaker,1,Every day,6.0,5,3,6,1,1,0,1,0,1,0,1,1,1,0
+a918d77f53214a129e3916c1b60f75f4,0.7,43,Male,Vocational or technical school,Native speaker,2,Several times per day,3.0,6,3,3,0,1,0,0,0,1,0,0,1,0,0
+a951d123612c4797962ddde581493be2,0.85,32,Male,Graduate work,Native speaker,-5,Every day,7.0,5,3,1,0,0,0,1,0,0,0,0,0,1,0
+a955551b37224258b6e3d56096dc1180,0.3,40,Female,Bachelor's degree,Native speaker,10,Several times per month,6.0,3,3,1,1,0,0,0,0,0,0,1,0,0,0
+aa6f556528924cd4aa67f1c687ee5030,0.55,28,Female,Associate degree,Native speaker,2,Several times per week,5.0,4,3,3,1,1,0,0,0,1,0,0,1,0,0
+aa85c91df7824c11bc66b17414e3f46a,0.25,28,Female,Graduate work,Native speaker,-8,Every day,7.0,5,3,8,1,1,1,1,1,0,0,1,0,0,1
+aaaf33663e9f4e7e89efa55d15c9ccf8,0.8,33,Female,Bachelor's degree,Native speaker,10,Every day,6.0,5,3,2,1,0,0,1,0,0,0,1,0,1,0
+aaf0d782881d4ac99eba7bc0baa37c4e,0.6,64,Female,Bachelor's degree,Native speaker,6,Every day,6.0,5,3,3,1,1,0,1,0,1,0,0,0,0,0
+ab51c32b9d804e5dbf47570f0c86d51f,0.8,65,Male,Some college,Native speaker,-7,Several times per day,4.0,6,3,8,0,1,1,1,1,0,0,0,0,1,0
+ab67c90be4d2494baa8480bf22d00535,0.65,52,Male,Bachelor's degree,Native speaker,2,Several times per day,6.0,6,3,1,0,1,0,0,0,1,0,0,1,0,0
+ab7a499e9d9549cd9635e86680e4dfd0,0.6,43,Male,Bachelor's degree,Native speaker,9,Every day,6.0,5,3,4,0,0,0,0,0,0,0,0,0,0,0
+ac305c43b0cf407f8cf926198ec5f4f4,0.6,31,Male,Associate degree,Native speaker,7,Every day,5.0,5,3,2,0,1,0,0,0,1,0,0,1,0,0
+acd13507f2ff4c91b4a6764d610dc373,0.75,26,Male,Some college,Near-native speaker,4,Several times per month,4.0,3,2,4,1,0,0,1,0,0,0,1,0,0,1
+acfa7a413f824de8a220769dc37d1767,0.6,30,Male,High school graduate,Native speaker,-7,Several times per week,2.0,4,3,1,0,0,0,0,0,0,0,0,0,0,0
+ad5cefd8e7774f9faa1a5065ff6543fc,0.0,47,Male,Bachelor's degree,Native speaker,3,Every day,6.0,5,3,3,1,0,0,1,0,0,0,0,0,1,0
+ae55f86c8f674987b8bd2e433e35d4f4,0.5,33,Male,Bachelor's degree,Native speaker,-7,Several times per day,6.0,6,3,3,0,0,1,1,0,0,1,0,0,1,1
+ae865d1c008848c69518d2c46563792e,0.55,40,Male,Bachelor's degree,Native speaker,0,Every day,6.0,5,3,5,1,1,0,1,0,1,0,0,1,1,0
+ae905a3bd2244854a92ef6bdf9c0da2d,0.75,55,Female,Bachelor's degree,Native speaker,8,Several times per day,6.0,6,3,4,1,1,1,0,1,0,0,1,1,0,0
+ae91e3b8be124f709b28a269fdfec34b,0.8,32,Male,Bachelor's degree,Native speaker,-10,Several times per week,6.0,4,3,1,1,0,0,0,0,0,0,1,0,0,0
+ae9689a8552646c58eef32da4213ab84,0.4,54,Female,Bachelor's degree,Native speaker,5,Several times per week,6.0,4,3,2,1,0,0,1,0,0,0,1,0,1,0
+ae9988b496eb4dba99224e269fe4a1ce,0.75,27,Male,Bachelor's degree,Native speaker,8,Every day,6.0,5,3,2,1,0,0,1,0,0,0,1,0,1,0
+aef3ca5391f04e788d6f11a0602c17bb,0.5,29,Female,Some college,Native speaker,-10,Never,4.0,1,3,2,1,0,1,0,0,0,1,1,0,0,0
+af1286364a284202a3afb6b7ddc85d3a,0.7,33,Female,Bachelor's degree,Native speaker,-6,Several times per day,6.0,6,3,3,1,0,1,0,0,0,1,1,0,0,0
+af7623b151334606bdd99eb14d90a20f,0.5,53,Female,Bachelor's degree,Native speaker,10,Several times per day,6.0,6,3,1,0,1,0,0,0,1,0,0,1,0,0
+af8123329eb740fd9dea7f24d1404962,0.55,29,Female,Bachelor's degree,Native speaker,-10,Every day,6.0,5,3,3,1,0,0,1,0,0,0,1,0,1,0
+afe15e8c93da49d9bfddb0c17202856b,0.6,46,Male,Associate degree,Native speaker,1,Every day,5.0,5,3,2,1,0,0,0,0,0,0,1,0,0,0
+afe315d780f04cf6990cba3364d71c34,0.15,27,Male,Bachelor's degree,Native speaker,-7,Several times per day,6.0,6,3,9,1,0,1,1,0,0,1,1,0,1,1
+b040f7ad55f6405c86316435c6a1753a,0.85,41,Male,Bachelor's degree,Native speaker,6,Every day,6.0,5,3,2,0,0,0,0,0,0,0,0,0,0,0
+b048702183a64a4182021994ae589fd6,0.2,23,Female,Bachelor's degree,Native speaker,-10,Every day,6.0,5,3,2,1,0,0,1,0,0,0,0,0,1,0
+b078abe3c278463fb40b7890ea0dd2cb,0.45,34,Male,Bachelor's degree,Native speaker,10,Every day,6.0,5,3,2,0,1,0,1,0,1,0,0,1,1,0
+b0c0bdf520b84c588adab72625b2fd12,0.65,43,Female,High school graduate,Native speaker,5,Several times per week,2.0,4,3,1,0,1,0,0,0,1,0,0,1,0,0
+b12b8ca827564af18c9989275db4afc9,0.7,33,Female,Graduate work,Native speaker,-8,Several times per week,7.0,4,3,3,1,0,0,1,0,0,0,0,0,1,1
+b1f5d8c963ff4386ade2bd2ff2c0fef2,0.45,33,Male,Bachelor's degree,Native speaker,-6,Every day,6.0,5,3,7,1,0,1,1,0,0,1,1,0,1,1
+b218cc9f0bd943eaae72feb278cfce1f,0.95,25,Male,Bachelor's degree,Native speaker,2,Every day,6.0,5,3,2,1,1,0,0,0,1,0,1,1,0,0
+b34630831c544d1ba80639d8657d2151,0.65,35,Male,Graduate work,Native speaker,1,Every day,7.0,5,3,1,1,0,0,0,0,0,0,1,0,0,0
+b34cb15814b44f9099af9a5098e6be69,0.9,25,Female,Graduate work,Native speaker,7,Every day,7.0,5,3,2,1,1,0,0,0,1,0,1,1,0,0
+b3ad38679a844e7aba1ee4ee41adf068,0.75,48,Female,Vocational or technical school,Native speaker,-10,Every day,3.0,5,3,1,0,0,1,0,0,0,1,0,0,0,0
+b3cbc6b16645400f93f5710e26a5e6cd,0.7,49,Female,High school graduate,Native speaker,5,Every day,2.0,5,3,1,0,1,0,0,0,1,0,0,1,0,0
+b44e79eef84c495bad6dc9947762d0ad,0.75,38,Male,Associate degree,Native speaker,3,Every day,5.0,5,3,8,1,1,1,1,1,0,0,1,1,1,1
+b4f4a66565574860abf2362a52530732,0.85,28,Female,Bachelor's degree,Native speaker,-8,Several times per week,6.0,4,3,1,1,0,0,0,0,0,0,1,0,0,0
+b50cc20c75e74d2abc0f396c3c24ba7e,0.45,38,Male,Graduate work,Native speaker,-6,Every day,7.0,5,3,1,0,0,0,1,0,0,0,0,0,1,0
+b532f56735064c82b7280741f5efc782,0.5,25,Male,Some college,Native speaker,-10,Several times per day,4.0,6,3,6,1,0,0,1,0,0,0,1,0,1,1
+b57ac32c458b4fd2ae43afc686e2be60,0.5,39,Male,High school graduate,Native speaker,-6,Very rarely,2.0,2,3,2,1,0,0,1,0,0,0,0,0,0,0
+b5843677a51a42f69ee43f63cbfb1d5e,0.75,27,Male,High school graduate,Native speaker,1,Every day,2.0,5,3,1,0,0,0,0,0,0,0,0,0,0,0
+b5afb611871942c19d1fb2c960734269,0.45,49,Male,Some college,Native speaker,-7,Several times per day,4.0,6,3,8,1,1,1,1,1,0,0,1,1,0,0
+b631443523b24001a025eb810dcabe9a,0.8,29,Male,Some college,Native speaker,-10,Every day,4.0,5,3,3,0,0,1,1,0,0,1,0,0,1,1
+b73debbb70994fc58bbd4886b83cb039,0.8,36,Male,Graduate work,Native speaker,9,Several times per day,7.0,6,3,5,0,1,1,1,1,0,0,0,1,0,0
+b73ece2608dd449bbc16b8955b6e09e1,0.5,48,Female,Bachelor's degree,Native speaker,10,Several times per day,6.0,6,3,11,1,1,1,1,1,0,0,0,1,1,1
+b76432137c8d4120b9adc9f99cac16a9,0.45,33,Female,Bachelor's degree,Native speaker,-9,Every day,6.0,5,3,3,0,1,0,1,0,1,0,0,0,1,1
+b8141c8656984f1a88737c18a0d63704,0.6,61,Female,Bachelor's degree,Native speaker,6,Several times per day,6.0,6,3,3,1,1,0,1,0,1,0,1,1,0,1
+b8514d08d997405db9e424ab21f446a3,0.5,50,Female,High school graduate,Native speaker,4,Several times per day,2.0,6,3,2,1,1,0,0,0,1,0,0,1,0,0
+b862b7b67ab441e4a873e06fa7d973f6,0.85,60,Female,Bachelor's degree,Native speaker,-10,Several times per day,6.0,6,3,1,0,0,0,1,0,0,0,0,0,0,1
+b96370fae8514e92a906ef25eee248fd,0.35,28,Male,Bachelor's degree,Native speaker,-4,Very rarely,6.0,2,3,7,1,1,1,1,1,0,0,1,1,1,0
+b9e5d6914cbb4a24bb4311f3fb84b06e,0.65,27,Male,Bachelor's degree,Native speaker,-9,Every day,6.0,5,3,4,1,1,1,1,1,0,0,1,1,1,0
+bab72a31e8504d9eb10e25905a80ca0b,0.55,26,Male,Bachelor's degree,Native speaker,-3,Several times per day,6.0,6,3,3,1,0,0,0,0,0,0,1,0,0,0
+bb29003c9ccb4e74817ec383888ab1f1,0.55,32,Male,Bachelor's degree,Native speaker,-2,Every day,6.0,5,3,3,1,0,0,1,0,0,0,1,0,1,0
+bb5d01bcd873406c9a6d1269125416d4,0.65,24,Female,Bachelor's degree,Native speaker,4,Several times per day,6.0,6,3,8,1,1,1,1,1,0,0,0,1,0,0
+bc82b343374b460d9f03f33bb3369053,0.75,58,Male,Bachelor's degree,Native speaker,-1,Every day,6.0,5,3,5,1,1,1,1,1,0,0,1,0,1,1
+bc936bc9ca3c423f9bfd6656e3051f5f,0.45,54,Male,Graduate work,Native speaker,0,Every day,7.0,5,3,1,0,0,0,0,0,0,0,0,0,0,0
+bcb9bdc2ce504f779fcda39a4d176f2f,0.7,28,Female,High school graduate,Native speaker,-1,Several times per week,2.0,4,3,1,1,0,0,0,0,0,0,1,0,0,0
+bce53bca2fd4411092de996b7ad37f1b,0.95,32,Male,Bachelor's degree,Near-native speaker,-5,Several times per week,6.0,4,2,1,0,0,0,1,0,0,0,0,0,1,0
+bceca0a7e59740149678af9479b45f74,0.6,43,Female,Bachelor's degree,Native speaker,7,Every day,6.0,5,3,1,0,1,0,0,0,1,0,0,1,0,0
+bd60ebfd331f4f73b2b1aac9a6691d2b,0.35,26,Male,Bachelor's degree,Native speaker,0,Several times per week,6.0,4,3,6,1,1,1,1,1,0,0,1,0,1,0
+bdc087eb848a45f1a2f4b327faa0d1a3,0.45,39,Male,Bachelor's degree,Native speaker,-6,Every day,6.0,5,3,1,1,0,0,0,0,0,0,1,0,0,0
+be0a8358934e43d182daffdd16d8a744,0.85,31,Male,Bachelor's degree,Native speaker,-7,Every day,6.0,5,3,1,0,1,0,0,0,1,0,0,1,0,0
+be4ac0911b6e4b51a7323fd55337622a,0.3,24,Female,High school graduate,Native speaker,5,Very rarely,2.0,2,3,1,0,0,0,1,0,0,0,0,0,1,0
+be9c88b517e44ce3955595af3d5f4b7f,0.85,32,Male,Bachelor's degree,Native speaker,5,Every day,6.0,5,3,10,1,1,1,0,1,0,0,1,1,0,0
+bec40b355dd9464fada5ab94f1fc105b,0.55,47,Male,Bachelor's degree,Native speaker,4,Every day,6.0,5,3,1,1,0,0,0,0,0,0,0,0,0,0
+befb2c4a953e4012b5bc186072dbaf82,0.55,43,Male,Bachelor's degree,Native speaker,6,Every day,6.0,5,3,5,1,1,0,0,0,1,0,1,1,0,0
+c009953e937b4ed390e8b52f70315402,0.0,43,Male,High school graduate,Native speaker,-2,Every day,2.0,5,3,2,0,1,0,1,0,1,0,0,0,1,0
+c0fae187d5e945df9995e28590c4cbe2,0.4,57,Female,Bachelor's degree,Native speaker,-8,Several times per week,6.0,4,3,1,0,0,0,1,0,0,0,0,0,0,1
+c13c0d07741c460d8c1254a6844bcadc,0.55,35,Male,Bachelor's degree,Native speaker,-5,Every day,6.0,5,3,1,0,1,0,0,0,1,0,0,1,0,0
+c19dae4748b546159138caadc6d3e4c2,0.15,42,Female,Some college,Native speaker,-7,Several times per week,4.0,4,3,7,1,1,1,1,1,0,0,1,0,1,1
+c229ac5057134bb4a1492ccaf057c399,0.7,36,Male,Graduate work,Native speaker,10,Every day,7.0,5,3,1,0,1,0,0,0,1,0,0,1,0,0
+c261c10da60f4ec4975fe07d4e1bf547,0.75,37,Female,Bachelor's degree,Native speaker,0,Every day,6.0,5,3,2,0,1,0,1,0,1,0,0,0,0,0
+c272feddfa7e4c2c988058d99af61d8e,0.55,26,Male,High school graduate,Native speaker,-10,Every day,2.0,5,3,3,0,0,1,1,0,0,1,0,0,1,0
+c2843c1d191248da97146056d7418763,0.5,56,Male,Some college,Native speaker,-7,Several times per day,4.0,6,3,2,0,1,0,1,0,1,0,0,0,1,0
+c30faeb61de74fe69b144742dc07c03e,0.75,38,Female,Some college,Native speaker,6,Several times per week,4.0,4,3,1,0,1,0,0,0,1,0,0,1,0,0
+c31ea104001f49338a6c9dd146fb875e,0.8,27,Female,Graduate work,Native speaker,-8,Every day,7.0,5,3,3,1,0,0,1,0,0,0,0,0,1,1
+c32e59db96db4e0b9d7053f1600580a3,0.55,25,Male,Bachelor's degree,Native speaker,6,Every day,6.0,5,3,1,1,0,0,0,0,0,0,1,0,0,0
+c351b77781bb43a39b77712faf86dca3,0.45,39,Male,Associate degree,Native speaker,10,Several times per day,5.0,6,3,5,1,1,0,0,0,1,0,0,1,0,0
+c3841af185a74347abf53319f047f6b3,0.7,29,Male,Some high school,Native speaker,1,Several times per week,1.0,4,3,2,1,0,1,0,0,0,1,1,0,0,0
+c39096a41d524dca9d21822f8bdf2247,0.7,34,Male,Graduate work,Native speaker,-8,Several times per week,7.0,4,3,1,0,0,0,0,0,0,0,0,0,0,0
+c3af43a78ae64700957e1957be4a4a5a,0.75,28,Male,Some high school,Native speaker,-10,Several times per week,1.0,4,3,1,1,0,0,0,0,0,0,0,0,0,0
+c424d9f11c20487aa0cfbf7d265fcf24,0.8,65,Female,High school graduate,Native speaker,0,Several times per day,2.0,6,3,3,1,1,0,0,0,1,0,1,1,0,0
+c47129eea5ca4cf58ed5e063282cf984,0.6,50,Male,Bachelor's degree,Native speaker,-8,Several times per day,6.0,6,3,1,0,0,1,0,0,0,1,0,0,0,0
+c479aea2b61c4ee29162e0b3e441707f,0.3,25,Male,Bachelor's degree,Native speaker,-6,Very rarely,6.0,2,3,1,0,0,0,1,0,0,0,0,0,0,1
+c4c3cec3279a4a109e64e4da886d7b32,0.75,29,Male,Bachelor's degree,Native speaker,3,Every day,6.0,5,3,2,1,0,0,1,0,0,0,0,0,1,0
+c4d3e2d06cdc45c99c03cf528fc59acb,0.75,45,Female,Bachelor's degree,Native speaker,-7,Every day,6.0,5,3,3,1,1,1,1,1,0,0,0,0,0,0
+c51feeb733f640fe8d62995f47e168b5,0.7,33,Female,Some college,Native speaker,-3,Several times per week,4.0,4,3,2,1,0,1,0,0,0,1,1,0,0,0
+c58cf34e89e74e83acf18038a351e8de,0.5,39,Male,Bachelor's degree,Native speaker,-8,Several times per day,6.0,6,3,2,1,0,0,1,0,0,0,1,0,0,1
+c5bb8446e8f64b1d963ca955f4ca141f,0.0,45,Male,Bachelor's degree,Native speaker,-10,Every day,6.0,5,3,5,1,1,0,1,0,1,0,1,1,1,0
+c6165ebeae7d4b5ca82ef80f25354aff,0.65,39,Female,Bachelor's degree,Native speaker,3,Several times per month,6.0,3,3,1,1,0,0,0,0,0,0,0,0,0,0
+c6368ce6766e42878750076e9a250a67,0.8,52,Female,Some college,Native speaker,1,Every day,4.0,5,3,1,0,1,0,0,0,1,0,0,1,0,0
+c67445e7ef9740588967544147928223,0.6,25,Female,Some college,Native speaker,-8,Every day,4.0,5,3,1,0,0,0,0,0,0,0,0,0,0,0
+c6aaa944d2454287b042bf43e1076dde,0.6,29,Male,Bachelor's degree,Native speaker,-10,Several times per week,6.0,4,3,1,0,0,0,1,0,0,0,0,0,1,0
+c6f9a201518d48a284ffc64077e7a598,0.75,40,Male,Bachelor's degree,Native speaker,10,Every day,6.0,5,3,2,1,1,0,0,0,1,0,0,1,0,0
+c72f239a96004ec497182908f308c39f,0.7,30,Male,Bachelor's degree,Native speaker,-3,Every day,6.0,5,3,3,1,0,1,1,0,0,1,1,0,1,0
+c75f859cde734c1aa97ac6bd4dc15564,0.75,36,Male,Vocational or technical school,Native speaker,3,Every day,3.0,5,3,7,1,1,1,1,1,0,0,1,1,0,1
+c844bf4752644bff88f2f3412c81be8b,0.6,33,Male,Bachelor's degree,Native speaker,-10,Several times per day,6.0,6,3,2,1,1,0,0,0,1,0,1,1,0,0
+c872944f895f4d37b48ec3854805bbdc,0.9,35,Female,Bachelor's degree,Native speaker,9,Every day,6.0,5,3,1,1,0,0,0,0,0,0,0,0,0,0
+c8de9760dd9041e994fc3036e0dd953c,0.6,24,Male,Bachelor's degree,Native speaker,3,Every day,6.0,5,3,6,1,1,1,1,1,0,0,0,0,1,0
+c9ae85d9c27c44f6b76f4459909df2ec,0.9,49,Female,Graduate work,Native speaker,1,Every day,7.0,5,3,1,1,0,0,0,0,0,0,0,0,0,0
+c9cd6c43ac5245228fa58c085d19fe77,0.7,37,Female,Some college,Native speaker,-6,Several times per month,4.0,3,3,1,1,0,0,0,0,0,0,0,0,0,0
+ca7bfeb69ef14748a8ccf3efdc36ddad,0.35,42,Female,Graduate work,Native speaker,-8,Several times per day,7.0,6,3,4,1,0,1,1,0,0,1,1,0,1,0
+cab308eb2fb94b56961c57112d5b8aaa,0.6,27,Male,Some college,Native speaker,-9,Several times per week,4.0,4,3,4,0,0,0,1,0,0,0,0,0,1,1
+cab5598240fc49caa56489cb56c1dfcf,0.8,29,Female,Associate degree,Native speaker,-1,Several times per week,5.0,4,3,4,1,0,1,0,0,0,1,1,0,0,0
+cadaafd8eff241c1b4ea28096e71d0d1,0.8,65,Male,Graduate work,Native speaker,10,Every day,7.0,5,3,1,0,1,0,0,0,1,0,0,1,0,0
+cb1b5c8fd1194f3386158b30a0ebaaa7,0.75,39,Female,Associate degree,Native speaker,5,Several times per month,5.0,3,3,3,0,1,0,0,0,1,0,0,0,0,0
+cb2dbc6ab17449f39b367db27cece89e,0.15,47,Female,Graduate work,Native speaker,2,Several times per week,7.0,4,3,1,0,0,0,1,0,0,0,0,0,1,0
+cb71b7ce17d24c9e985723f14c1dc8e1,0.55,44,Male,Bachelor's degree,Native speaker,-6,Every day,6.0,5,3,2,0,0,1,0,0,0,1,0,0,0,0
+cc1f11deb9fd4eeb8b1403d53d189201,0.45,52,Male,Bachelor's degree,Native speaker,-10,Every day,6.0,5,3,4,1,1,0,1,0,1,0,1,1,1,0
+cc40270686684edbb9c8e95b95162c6a,0.15,25,Male,Bachelor's degree,Near-native speaker,3,Every day,6.0,5,2,2,1,0,1,0,0,0,1,1,0,0,0
+cc86b1d5252643eeb994c2a3030c76d7,0.75,25,Male,Some college,Native speaker,-9,Every day,4.0,5,3,7,1,1,1,1,1,0,0,1,0,1,1
+ccfb6509f4414f779bb22f1b6ce9d654,0.75,24,Female,Some college,Native speaker,-5,Every day,4.0,5,3,8,1,1,1,1,1,0,0,1,0,1,0
+ccfc4baaef34441b91fc959a9f8cb309,0.35,57,Female,Some college,Native speaker,-10,Several times per day,4.0,6,3,5,1,0,1,1,0,0,1,1,0,1,1
+cd074017cce445869f289c55196cfc3e,0.75,31,Female,Bachelor's degree,Native speaker,-1,Every day,6.0,5,3,1,0,1,0,1,0,1,0,0,0,0,0
+cd0bc7394bd8486c825c452de1640d06,0.55,39,Male,Bachelor's degree,Native speaker,-7,Several times per week,6.0,4,3,1,1,0,0,0,0,0,0,0,0,0,0
+cd12c35f4222413ea09d99149febf0cb,0.65,26,Male,Bachelor's degree,Native speaker,0,Several times per week,6.0,4,3,2,1,0,0,1,0,0,0,0,0,1,0
+cd3b66aeec004012ada6b4989ce9f96d,0.6,53,Male,Bachelor's degree,Native speaker,-8,Several times per day,6.0,6,3,2,0,0,0,1,0,0,0,0,0,1,1
+cd6e466bf9484bfc8a4482bad0ae3fe4,0.7,37,Male,Bachelor's degree,Native speaker,-7,Several times per day,6.0,6,3,2,1,0,0,1,0,0,0,1,0,1,0
+ce03ad98435b43c18050f9e01ced5274,0.8,52,Female,Associate degree,Native speaker,10,Several times per day,5.0,6,3,4,1,1,0,0,0,1,0,1,0,0,0
+ce1e4be20f85450185445fb6a539151c,0.6,52,Female,Bachelor's degree,Near-native speaker,0,Every day,6.0,5,2,2,1,1,0,0,0,1,0,1,1,0,0
+ce68cb2f0e014a40a2463bc810372490,0.85,40,Male,Graduate work,Native speaker,10,Several times per day,7.0,6,3,3,1,0,0,0,0,0,0,0,0,0,0
+cea22190a7ff4222a1fb7d9f38b0db36,0.3,39,Male,Bachelor's degree,Near-native speaker,0,Every day,6.0,5,2,2,1,1,0,0,0,1,0,1,1,0,0
+cf6570d4a74c4af3948269d3ec0904da,0.4,52,Female,Associate degree,Native speaker,1,Several times per day,5.0,6,3,5,1,1,0,1,0,1,0,1,1,0,0
+cfea1bbe709a445f9aabaabb9f72db19,0.8,28,Male,Bachelor's degree,Native speaker,5,Every day,6.0,5,3,2,1,1,0,0,0,1,0,0,1,0,0
+d06491fe316e40789305fd54a6f25d27,0.75,54,Male,Bachelor's degree,Near-native speaker,7,Several times per day,6.0,6,2,4,1,0,1,0,0,0,1,1,0,0,0
+d06ec19285e14fa092dcf04be579f0c7,0.6,36,Male,Graduate work,Native speaker,-5,Several times per day,7.0,6,3,1,1,0,0,0,0,0,0,1,0,0,0
+d10452a4ebc241ba81c8d4b54b6ccc42,0.2,31,Male,Associate degree,Native speaker,0,Every day,5.0,5,3,7,1,1,1,1,1,0,0,0,1,1,1
+d13fbc86cb9a4a6a95bd1228986c91f3,0.4,25,Female,Graduate work,Native speaker,-3,Several times per day,7.0,6,3,4,1,0,1,1,0,0,1,1,0,1,0
+d14dcd2f295c4592a962c521881ee02d,0.7,34,Female,Graduate work,Native speaker,-10,Every day,7.0,5,3,2,0,0,0,1,0,0,0,0,0,1,0
+d1b101f894a24935b2b92db2bacd98a9,0.6,31,Male,Bachelor's degree,Native speaker,-3,Several times per day,6.0,6,3,2,1,0,0,0,0,0,0,1,0,0,0
+d1ec704d0bb3460cb90b8ba277f4dc23,0.55,42,Female,Some college,Native speaker,-3,Never,4.0,1,3,4,0,1,1,1,1,0,0,0,0,1,0
+d23524fe305641d58fa684d5a44e1f1a,0.8,37,Female,Bachelor's degree,Native speaker,-7,Every day,6.0,5,3,4,1,0,0,0,0,0,0,1,0,0,0
+d26ae75e1c2a498aae6a43754d38d149,0.8,42,Male,Associate degree,Native speaker,8,Every day,5.0,5,3,7,1,1,0,1,0,1,0,0,1,1,1
+d287576234be4d8a8fedabedd2913084,0.5,41,Male,Graduate work,Native speaker,9,Every day,7.0,5,3,4,0,1,1,1,1,0,0,0,1,0,1
+d29c948507874892b6b10af803bb2734,0.45,38,Male,Bachelor's degree,Native speaker,-2,Several times per day,6.0,6,3,2,1,0,0,1,0,0,0,1,0,0,0
+d2d7daa6a2c34f69a1cb81d2e3984bbf,0.95,32,Female,Bachelor's degree,Native speaker,-10,Every day,6.0,5,3,1,1,0,0,0,0,0,0,1,0,0,0
+d32d053a4b03406b8c25c787f8ba78f9,0.9,29,Male,Bachelor's degree,Native speaker,4,Very rarely,6.0,2,3,3,1,0,0,1,0,0,0,1,0,1,0
+d33d13ace3f24190b67f3d1fc6fec82a,0.6,47,Male,Graduate work,Native speaker,0,Several times per day,7.0,6,3,14,1,1,1,1,1,0,0,1,0,1,1
+d395f196ab5d49849acaffd984e0354c,0.35,47,Female,Graduate work,Native speaker,5,Several times per week,7.0,4,3,1,1,0,0,0,0,0,0,1,0,0,0
+d3ee10d0806649589927e401f4974263,0.55,55,Female,Vocational or technical school,Native speaker,-1,Every day,3.0,5,3,2,0,0,0,1,0,0,0,0,0,1,1
+d4115de647644ceb8b2c18aacb81236f,0.75,43,Male,Graduate work,Native speaker,9,Every day,7.0,5,3,2,1,1,0,0,0,1,0,0,1,0,0
+d4cfb2b490714cc38cc3847c19292b64,0.55,38,Male,High school graduate,Native speaker,-6,Several times per day,2.0,6,3,1,1,0,0,0,0,0,0,0,0,0,0
+d4eec4ecbcfc4c81b59c96e9dff5c473,0.0,47,Male,Bachelor's degree,Native speaker,6,Every day,6.0,5,3,3,1,0,1,1,0,0,1,0,0,1,0
+d56d96541c5e489e8ed9ad375d7382e3,0.65,32,Male,Bachelor's degree,Native speaker,5,Several times per month,6.0,3,3,3,1,1,0,1,0,1,0,1,1,1,0
+d5a1f702df1143ea886e417ec5d046a4,0.45,36,Male,Bachelor's degree,Native speaker,10,Several times per month,6.0,3,3,1,0,0,1,1,0,0,1,0,0,0,0
+d5c2e54e2b2e40a48c84babc1f02d47e,0.25,27,Male,Bachelor's degree,Native speaker,-2,Every day,6.0,5,3,13,1,1,1,1,1,0,0,1,1,1,1
+d5e1757c26e543409a3e7c86a29768ba,0.6,29,Male,Graduate work,Native speaker,-10,Every day,7.0,5,3,2,0,0,1,1,0,0,1,0,0,0,0
+d6002417932b4b5893ade1b003108073,0.5,27,Female,Bachelor's degree,Native speaker,-10,Several times per week,6.0,4,3,2,1,0,0,0,0,0,0,1,0,0,0
+d61e06b71d7d41d59b2eefbaf99e0036,0.75,19,Female,Some college,Native speaker,0,Every day,4.0,5,3,3,0,0,0,1,0,0,0,0,0,1,1
+d6a92b5206ea4658b04e8b86804e33d0,0.6,40,Male,Associate degree,Native speaker,1,Several times per month,5.0,3,3,3,1,0,0,0,0,0,0,1,0,0,0
+d6e0cf44ca6547faa9e07e89562057c6,0.45,31,Female,Bachelor's degree,Native speaker,-7,Several times per week,6.0,4,3,4,1,0,1,0,0,0,1,0,0,0,0
+d70f8695c684422aa2434237b824fdb3,0.85,47,Female,Graduate work,Near-native speaker,8,Every day,7.0,5,2,1,1,0,0,0,0,0,0,1,0,0,0
+d7ae7bcd422544e8880f020ad5a6ac86,0.7,27,Female,Associate degree,Native speaker,-4,Every day,5.0,5,3,1,0,1,0,0,0,1,0,0,1,0,0
+d91ef8569ccc440989c870f2907ce80c,0.0,27,Male,Associate degree,Native speaker,9,Several times per day,5.0,6,3,4,1,0,0,0,0,0,0,0,0,0,0
+d9f210148a6944a593e862f7e4c0af33,0.3,30,Female,Bachelor's degree,Native speaker,-6,Every day,6.0,5,3,7,1,1,1,1,1,0,0,0,0,0,1
+da04bb8755d148158e4fd6294effd58a,0.6,26,Female,High school graduate,Native speaker,-8,Several times per day,2.0,6,3,3,1,0,1,0,0,0,1,1,0,0,0
+da477b30247f4825ae878de711736504,0.65,34,Female,High school graduate,Native speaker,-9,Every day,2.0,5,3,2,1,0,0,0,0,0,0,1,0,0,0
+da51ee4da9584a11b2f5184b26650a29,0.75,28,Male,Associate degree,Native speaker,0,Several times per week,5.0,4,3,3,1,0,0,1,0,0,0,1,0,1,0
+da5725eac2b44a63b340924839749105,0.5,26,Male,Bachelor's degree,Native speaker,-10,Several times per week,6.0,4,3,4,1,1,0,0,0,1,0,1,1,0,0
+da6d1c71eadb4d47b2bc0f03100bfbb7,0.95,37,Female,Bachelor's degree,Native speaker,-8,Every day,6.0,5,3,4,1,0,0,0,0,0,0,1,0,0,0
+da7135e482154095858cdbcd482acdf3,0.7,32,Male,Bachelor's degree,Native speaker,-8,Every day,6.0,5,3,5,1,0,1,1,0,0,1,1,0,1,1
+daa7a17b376c48308e1f0584803555a9,0.75,32,Male,Bachelor's degree,Native speaker,-10,Every day,6.0,5,3,3,1,0,0,1,0,0,0,1,0,1,1
+dad1b6d8671c47bebbf6223690ff3b3c,0.3,33,Female,Bachelor's degree,Native speaker,-3,Several times per day,6.0,6,3,6,1,1,1,1,1,0,0,1,1,0,1
+db151108f1254843a98a412f3c75e79a,0.35,38,Male,Associate degree,Native speaker,4,Every day,5.0,5,3,7,1,1,1,1,1,0,0,1,1,1,1
+db236b13beab427583477f6ed6ad9d18,0.9,37,Female,Associate degree,Native speaker,8,Every day,5.0,5,3,2,0,1,0,0,0,1,0,0,1,0,0
+db640b929102488e91719de7205baa4d,0.5,23,Male,Some college,Native speaker,-8,Several times per week,4.0,4,3,2,1,0,0,1,0,0,0,0,0,1,0
+db7d044b568b46378af03c973f59b18d,0.55,29,Male,Some college,Native speaker,4,Several times per month,4.0,3,3,1,0,0,0,0,0,0,0,0,0,0,0
+dbba759d89d34bd0ae3faeaef0a60498,0.6,31,Female,Bachelor's degree,Native speaker,8,Several times per week,6.0,4,3,1,0,1,0,0,0,1,0,0,0,0,0
+dbed1a1d40b449aaae455d54edcc42dc,0.8,43,Male,Associate degree,Native speaker,1,Several times per day,5.0,6,3,2,0,1,0,0,0,1,0,0,1,0,0
+dbfb78010c6a4cc0949af54b4f4f01b3,0.95,67,Female,High school graduate,Native speaker,-10,Several times per day,2.0,6,3,3,1,0,0,0,0,0,0,1,0,0,0
+dc1f872b17f84498bc758b0150fc659e,0.5,33,Male,High school graduate,Native speaker,2,Several times per day,2.0,6,3,1,0,1,0,0,0,1,0,0,0,0,0
+dc61d420bcfc4837900a714f3d1863e3,0.55,28,Female,High school graduate,Native speaker,-8,Several times per month,2.0,3,3,1,0,0,0,1,0,0,0,0,0,1,0
+dcb29c9868ff4d54835cf98cc16e63d1,0.45,51,Male,Bachelor's degree,Native speaker,-6,Several times per day,6.0,6,3,4,1,1,0,1,0,1,0,1,1,0,0
+dcb2f158137b4a54a70a729fb25885fc,0.65,32,Male,Graduate work,Native speaker,-1,Very rarely,7.0,2,3,1,0,0,1,1,0,0,1,0,0,0,0
+dd76968ccbe44616a815f53bbafaa91e,0.65,18,Female,High school graduate,Native speaker,2,Very rarely,2.0,2,3,5,0,1,1,1,1,0,0,0,0,1,1
+de3865ce91324f7197327ccda87a6046,0.45,35,Female,Some college,Native speaker,-10,Several times per week,4.0,4,3,2,1,0,0,1,0,0,0,1,0,0,0
+deaaa67fbcf34fc4a72084c016cb3033,0.25,50,Male,Some college,Native speaker,-10,Every day,4.0,5,3,3,1,0,0,0,0,0,0,1,0,0,0
+dedca491d6d14a7799888169a00f6ab0,0.55,37,Female,Graduate work,Native speaker,-2,Every day,7.0,5,3,6,1,1,1,1,1,0,0,0,0,1,1
+df88431ecee948c78a1ad152f94f9d48,1.0,29,Male,High school graduate,Native speaker,2,Several times per week,2.0,4,3,1,0,0,0,0,0,0,0,0,0,0,0
+df9798ec6c6443eaa2a768f8b0662c34,0.9,30,Male,Bachelor's degree,Native speaker,-5,Several times per day,6.0,6,3,1,0,0,0,1,0,0,0,0,0,0,1
+dfeea6a0bb0f4c21a778e7c157a26fe8,0.45,19,Male,Some college,Native speaker,10,Every day,4.0,5,3,4,0,1,0,1,0,1,0,0,1,0,0
+dff7182b9dd94bacafa71ef525fc9269,0.5,59,Male,Bachelor's degree,Native speaker,2,Every day,6.0,5,3,5,1,1,0,1,0,1,0,1,1,1,0
+e07efc9aac22481dbcb84dc67eac0fab,0.35,27,Female,High school graduate,Native speaker,0,Every day,2.0,5,3,3,0,0,1,1,0,0,1,0,0,1,1
+e0d2eaa126d94e2093e56321c0a70db6,0.6,25,Male,Bachelor's degree,Native speaker,9,Every day,6.0,5,3,3,1,1,0,1,0,1,0,1,1,1,0
+e1267e5867dc486fa2bcaf90f682d240,0.6,48,Female,Graduate work,Native speaker,-10,Several times per day,7.0,6,3,4,1,1,0,1,0,1,0,1,1,1,1
+e1267fd2cdaa4868a68ae05ea700553e,0.8,40,Male,High school graduate,Native speaker,1,Several times per month,2.0,3,3,1,0,0,0,1,0,0,0,0,0,1,0
+e1336361207e4c7282b4bcc74439b61d,0.65,35,Male,Some college,Native speaker,-10,Several times per day,4.0,6,3,3,1,0,1,0,0,0,1,1,0,0,0
+e14716d2dcf24c899f5d225b20962fea,0.8,34,Female,Bachelor's degree,Native speaker,7,Every day,6.0,5,3,7,1,1,0,1,0,1,0,1,1,1,0
+e1b6f571a06745959d9a5f1b87155558,0.85,49,Female,Bachelor's degree,Native speaker,6,Several times per month,6.0,3,3,1,0,1,0,0,0,1,0,0,1,0,0
+e1da9c633879455289a767d86ce54ae0,0.3,30,Female,Graduate work,Native speaker,-10,Several times per day,7.0,6,3,3,0,0,1,1,0,0,1,0,0,1,1
+e215df02a82843f39743c469b25f9b44,0.85,32,Male,Bachelor's degree,Native speaker,-6,Several times per week,6.0,4,3,1,0,0,0,1,0,0,0,0,0,1,0
+e2391cb03caf4e67b7dfdc176faac813,0.75,33,Male,Bachelor's degree,Native speaker,10,Several times per week,6.0,4,3,2,0,1,0,1,0,1,0,0,1,1,0
+e243cd006ad14b61aa387e75bdf77b7d,0.15,55,Female,Some high school,Near-native speaker,-1,Very rarely,1.0,2,2,1,1,0,0,0,0,0,0,1,0,0,0
+e24bccb1ee534efd9cff5b1328845af5,0.75,59,Female,Vocational or technical school,Native speaker,7,Every day,3.0,5,3,3,1,1,0,1,0,1,0,0,1,0,0
+e264169558e843799d521824abdf89b0,0.85,49,Male,Some college,Native speaker,-10,Several times per day,4.0,6,3,9,1,1,1,1,1,0,0,1,0,0,0
+e2733ddece334ccb81ae006b9b614948,0.6,42,Female,Some college,Native speaker,-4,Never,4.0,1,3,4,0,1,1,1,1,0,0,0,0,1,0
+e27b81f366df49919ee7ca5c73c47855,0.35,28,Male,Bachelor's degree,Native speaker,-9,Every day,6.0,5,3,4,1,0,1,1,0,0,1,1,0,0,1
+e28fddaba43645f2badc07322ad99ec8,0.25,30,Female,High school graduate,Native speaker,-10,Several times per day,2.0,6,3,4,0,1,1,1,1,0,0,0,1,1,0
+e331ec20b684430c988514a3708fef94,0.4,55,Male,Bachelor's degree,Native speaker,9,Every day,6.0,5,3,1,0,1,0,0,0,1,0,0,1,0,0
+e369f47be2a3462b8f732a9cab4fc560,0.25,31,Male,Bachelor's degree,Native speaker,-8,Several times per month,6.0,3,3,3,1,1,0,1,0,1,0,1,1,1,0
+e3b07967053d40a4ac2f4f36e7e6fbc3,1.0,42,Male,Bachelor's degree,Native speaker,4,Every day,6.0,5,3,3,1,0,0,1,0,0,0,1,0,1,0
+e3e8934abf17496190b5011231827e55,0.7,33,Male,Bachelor's degree,Native speaker,-6,Every day,6.0,5,3,1,1,0,0,0,0,0,0,1,0,0,0
+e3eb17903a3549168a9ccc8a36d3a7de,0.4,22,Female,Some college,Native speaker,-8,Every day,4.0,5,3,9,1,1,1,1,1,0,0,1,0,1,1
+e41651752b32402aa872846460054631,0.3,31,Male,Bachelor's degree,Native speaker,-6,Several times per month,6.0,3,3,1,0,0,0,1,0,0,0,0,0,0,1
+e4278bc3fef346c7acffac1386f1977c,0.65,40,Male,Associate degree,Native speaker,-1,Every day,5.0,5,3,2,1,1,0,1,0,1,0,1,0,0,0
+e4a13c9b83a94596a56d690a0496dd0e,0.6,34,Male,Bachelor's degree,Native speaker,7,Every day,6.0,5,3,1,0,0,0,1,0,0,0,0,0,1,0
+e4b326b0b8b64f4c8b874622444f63f0,0.55,25,Male,Bachelor's degree,Native speaker,-1,Every day,6.0,5,3,2,1,0,1,1,0,0,1,0,0,0,0
+e4ccf98e80b54f10841c74587623ee1e,0.45,30,Male,Bachelor's degree,Native speaker,-1,Several times per month,6.0,3,3,1,1,0,0,0,0,0,0,0,0,0,0
+e50ddc7131f24dbaa80731a7cf1df28f,0.45,35,Male,Some college,Native speaker,4,Every day,4.0,5,3,3,1,0,1,0,0,0,1,1,0,0,0
+e5ba7cff0834430cb41316b327162e8f,0.8,32,Female,High school graduate,Native speaker,-9,Every day,2.0,5,3,1,0,1,0,0,0,1,0,0,1,0,0
+e64a6159496746b18a7c1c03442c78eb,0.55,41,Male,Associate degree,Native speaker,-7,Every day,5.0,5,3,6,1,1,1,1,1,0,0,1,1,1,0
+e6b056afab354609849d7b6eb5cc937b,0.25,32,Female,Bachelor's degree,Native speaker,0,Every day,6.0,5,3,2,1,0,1,0,0,0,1,1,0,0,0
+e71aa4c5e2214a71ba0adf4048fcdf4b,0.4,47,Male,Bachelor's degree,Non-native speaker,4,Every day,6.0,5,1,3,1,0,0,1,0,0,0,0,0,1,0
+e7482a8787d846dc85a46de4cc8571ea,0.5,28,Female,Bachelor's degree,Native speaker,7,Every day,6.0,5,3,5,1,1,0,1,0,1,0,0,0,1,1
+e7923b7f7ee84424aaf1ad7079cc76c0,0.55,33,Male,Bachelor's degree,Native speaker,4,Several times per week,6.0,4,3,2,1,1,0,0,0,1,0,1,1,0,0
+e7f5ab11f36a4029bd8c02880d9cca4c,0.55,32,Male,Bachelor's degree,Native speaker,-10,Every day,6.0,5,3,4,1,1,0,1,0,1,0,0,0,1,1
+e81902d0a48d470a963d3c001c8937d6,0.7,43,Male,Bachelor's degree,Native speaker,-2,Several times per day,6.0,6,3,4,1,0,0,1,0,0,0,0,0,1,1
+e8c175b9b6e04a49bd29a329313845ba,0.7,49,Male,Graduate work,Native speaker,8,Several times per day,7.0,6,3,1,0,0,0,0,0,0,0,0,0,0,0
+e8eed2f6b1394f8688b8a74f41983872,0.65,42,Male,Bachelor's degree,Native speaker,3,Several times per day,6.0,6,3,2,1,1,0,0,0,1,0,1,1,0,0
+e9051397115e4ae486a17e7df45a1497,0.55,36,Male,Bachelor's degree,Native speaker,-8,Several times per week,6.0,4,3,6,1,1,1,1,1,0,0,1,0,1,1
+e983f747796f47cba3554df2eab4c637,0.4,45,Male,Bachelor's degree,Native speaker,2,Several times per day,6.0,6,3,8,1,0,1,1,0,0,1,1,0,1,0
+e991b989ff454f66a3a9a86a61d2be28,0.5,24,Male,High school graduate,Native speaker,-6,Several times per month,2.0,3,3,6,0,1,1,1,1,0,0,0,0,1,1
+ea2659eb55894a07b442271b9b10c6dd,0.55,37,Male,Some college,Native speaker,-10,Several times per week,4.0,4,3,4,0,0,0,1,0,0,0,0,0,1,1
+eaddfcab910443c2acf882632d8d2394,0.9,25,Male,Bachelor's degree,Native speaker,9,Every day,6.0,5,3,2,0,1,0,1,0,1,0,0,1,1,0
+eae617699ec94f6c8a3c09fed155a4ca,1.0,32,Female,Bachelor's degree,Native speaker,2,Every day,6.0,5,3,1,0,0,0,1,0,0,0,0,0,1,0
+eb4d72fca80c49649995779cbf6382f1,0.55,62,Female,Associate degree,Native speaker,-10,Several times per day,5.0,6,3,4,1,0,1,1,0,0,1,1,0,1,1
+ebbc3ce9848242cc9d6506534817ebb9,0.55,36,Female,Some college,Native speaker,-4,Every day,4.0,5,3,1,1,0,0,0,0,0,0,0,0,0,0
+ebe755d1159c431caea5dacff6209d3d,0.8,28,Male,Bachelor's degree,Native speaker,9,Every day,6.0,5,3,4,1,1,0,0,0,1,0,1,1,0,0
+ec2c7967cd674e4db2c4e75ed05380a9,0.75,39,Male,Bachelor's degree,Native speaker,0,Every day,6.0,5,3,2,0,1,0,0,0,1,0,0,0,0,0
+ecdd75007de64f6bb15fdf80bb1e5c11,0.6,52,Male,Graduate work,Native speaker,5,Several times per day,7.0,6,3,6,1,1,1,1,1,0,0,1,1,0,0
+ed4be580d49a4d1780b5c6e3cb62ed9e,0.65,68,Other/Prefer not to say,Some college,Native speaker,10,Every day,4.0,5,3,1,0,1,0,0,0,1,0,0,0,0,0
+edb0b52ebf1947209f4495f0fb14c892,0.8,52,Female,Graduate work,Native speaker,-8,Every day,7.0,5,3,2,1,0,1,1,0,0,1,0,0,0,0
+ee43aabbbfc541c49b30667bc71c2e29,0.9,64,Male,Some college,Native speaker,0,Every day,4.0,5,3,3,1,0,0,0,0,0,0,1,0,0,0
+ee4c1d3cecbe497286b3b7a1008a7246,0.65,28,Male,Bachelor's degree,Native speaker,10,Every day,6.0,5,3,3,0,1,0,0,0,1,0,0,1,0,0
+ee70a02023cc41acbcf1f625209aeb82,0.55,25,Male,Bachelor's degree,Native speaker,-10,Several times per week,6.0,4,3,1,0,1,0,0,0,1,0,0,1,0,0
+ee7c19fb3f0e470c914dc728aaf49859,0.35,23,Other/Prefer not to say,Bachelor's degree,Native speaker,-10,Several times per day,6.0,6,3,2,1,0,0,1,0,0,0,0,0,0,1
+ee7da49a4a1542c2afd46dab46c5db2d,0.7,39,Male,Some college,Native speaker,-8,Every day,4.0,5,3,4,1,0,1,1,0,0,1,0,0,1,0
+eeffc22b65b649ddb0a3bc9e591d09ac,0.25,47,Female,Graduate work,Native speaker,3,Every day,7.0,5,3,1,1,0,0,0,0,0,0,0,0,0,0
+f00d0da191f3448a91b7bb6e23148254,0.45,54,Male,Bachelor's degree,Native speaker,2,Several times per day,6.0,6,3,4,1,0,1,0,0,0,1,1,0,0,0
+f01a49a58fe94e43bb3962c5aa348c9d,0.4,27,Male,Bachelor's degree,Native speaker,-8,Every day,6.0,5,3,8,1,1,1,1,1,0,0,1,1,0,1
+f0358f3e20894c9fad2fcb3f5ba5f341,0.7,49,Male,Graduate work,Native speaker,-5,Every day,7.0,5,3,3,1,1,0,1,0,1,0,0,0,0,0
+f06fd7977eee40d2bd98ad05add0b24c,0.8,26,Male,Bachelor's degree,Native speaker,-7,Every day,6.0,5,3,1,0,0,1,0,0,0,1,0,0,0,0
+f07ea21e92304da08042bb2f962d6d99,0.35,30,Male,Associate degree,Native speaker,-7,Every day,5.0,5,3,2,1,0,0,0,0,0,0,1,0,0,0
+f09a77be56b945a6a8a122a801983ee9,0.7,36,Male,Graduate work,Native speaker,-7,Every day,7.0,5,3,4,1,1,0,1,0,1,0,0,1,0,0
+f10d06198b6a43a7ab7a9739cba6224a,0.15,47,Male,Graduate work,Native speaker,5,Every day,7.0,5,3,1,1,0,0,0,0,0,0,0,0,0,0
+f13ed0087f174768b924fcf7d207a479,0.7,60,Female,Bachelor's degree,Native speaker,-7,Very rarely,6.0,2,3,1,1,0,0,0,0,0,0,0,0,0,0
+f1fe43989fd24936b325207c1d41d6af,0.6,36,Male,Bachelor's degree,Native speaker,-9,Several times per day,6.0,6,3,2,1,0,1,0,0,0,1,1,0,0,0
+f20f6d67cf0d43cebd5afe1538919662,0.5,64,Male,Bachelor's degree,Native speaker,-1,Several times per week,6.0,4,3,1,0,0,0,0,0,0,0,0,0,0,0
+f3631b898bfc4795ae396521ef928a27,0.5,37,Male,High school graduate,Native speaker,-4,Every day,2.0,5,3,4,1,0,0,1,0,0,0,1,0,1,0
+f3ba5042157840059fd7dbb19b4b7ce1,0.85,35,Male,Bachelor's degree,Native speaker,0,Several times per week,6.0,4,3,3,1,0,1,0,0,0,1,1,0,0,0
+f42035f5711246d8b16ee545051d60c4,0.75,46,Female,Graduate work,Native speaker,0,Every day,7.0,5,3,4,1,0,0,0,0,0,0,0,0,0,0
+f46863754c7b449f9939711637711b14,0.75,49,Male,Bachelor's degree,Native speaker,-7,Every day,6.0,5,3,1,0,0,0,1,0,0,0,0,0,1,0
+f4bbba14655f41f1abfd48befb64d2d1,0.25,39,Male,Bachelor's degree,Native speaker,5,Every day,6.0,5,3,1,0,1,0,0,0,1,0,0,1,0,0
+f4bf596361094636a622b7a72865e949,0.65,30,Female,Bachelor's degree,Native speaker,10,Every day,6.0,5,3,2,1,1,0,0,0,1,0,0,1,0,0
+f509b493c62d46c6a181d290b397c39d,0.75,29,Female,Graduate work,Native speaker,-8,Several times per day,7.0,6,3,10,1,1,0,1,0,1,0,1,0,1,1
+f54008be0d374a0a8b265bff5ccf55c6,0.8,25,Female,Bachelor's degree,Native speaker,-5,Every day,6.0,5,3,2,1,0,0,0,0,0,0,1,0,0,0
+f564bda37f3845dca872a8ea1e667a7c,0.6,39,Female,Bachelor's degree,Native speaker,3,Every day,6.0,5,3,3,1,0,0,1,0,0,0,0,0,1,1
+f58fea81b14e45f1aa8544e8404ea388,0.95,64,Male,Bachelor's degree,Native speaker,-2,Several times per week,6.0,4,3,1,0,0,0,0,0,0,0,0,0,0,0
+f5e02b1ca50742b1ae204c22101bd377,0.35,29,Female,Associate degree,Native speaker,0,Several times per day,5.0,6,3,2,1,0,0,1,0,0,0,1,0,1,0
+f5e6040232fa4a6faa84658241ee8a1a,0.5,50,Male,Bachelor's degree,Native speaker,-6,Every day,6.0,5,3,1,1,0,0,0,0,0,0,1,0,0,0
+f5f01f7b9eb24662aabc656a42336732,0.45,49,Female,Bachelor's degree,Native speaker,9,Several times per day,6.0,6,3,6,1,1,0,1,0,1,0,0,0,1,1
+f60a863bfa5e48e696990ff5b45960fc,0.85,48,Female,Graduate work,Native speaker,-5,Several times per week,7.0,4,3,10,1,1,1,1,1,0,0,1,0,1,1
+f635563391da40299e19a49f7176f4ce,0.6,30,Male,Some college,Native speaker,-6,Every day,4.0,5,3,8,1,0,1,1,0,0,1,1,0,1,0
+f67f60ec8558401392fb92051f540339,0.4,24,Male,Bachelor's degree,Native speaker,-10,Several times per month,6.0,3,3,5,0,1,1,1,1,0,0,0,0,0,1
+f6b1bfd6c971444da0ecbc870e01449c,0.7,24,Male,High school graduate,Native speaker,0,Several times per week,2.0,4,3,1,1,0,0,0,0,0,0,0,0,0,0
+f6d5c17648a14ffb9c518d3aef6004f3,0.35,40,Female,Graduate work,Native speaker,-10,Several times per day,7.0,6,3,12,1,1,1,1,1,0,0,1,0,1,1
+f6dc987dd11b47c1bfa4e210cc3ee0fe,0.75,20,Male,Associate degree,Native speaker,0,Several times per month,5.0,3,3,3,1,1,0,1,0,1,0,1,0,0,0
+f766f9eae6f04aa099bd4da013db85a0,0.65,25,Male,Bachelor's degree,Native speaker,3,Every day,6.0,5,3,2,1,0,0,0,0,0,0,1,0,0,0
+f7a6fb055d19416f806c20b47b25be33,0.8,51,Female,Vocational or technical school,Native speaker,3,Very rarely,3.0,2,3,1,0,0,0,0,0,0,0,0,0,0,0
+f801d5a2af0e4772940f97045d7c0412,0.55,25,Male,Bachelor's degree,Native speaker,9,Every day,6.0,5,3,2,0,1,0,1,0,1,0,0,1,1,0
+f85b454b909f4196a3e3b403e24d8c73,0.8,44,Female,Bachelor's degree,Native speaker,10,Several times per week,6.0,4,3,2,0,1,0,1,0,1,0,0,1,0,0
+f86c42d67a154108aaa2f79119a798d1,0.2,27,Female,High school graduate,Native speaker,0,Every day,2.0,5,3,5,1,1,0,1,0,1,0,0,0,1,1
+f899aca92c004a1ca169caf1e6c988a1,0.15,35,Male,High school graduate,Native speaker,-8,Every day,2.0,5,3,3,0,0,1,1,0,0,1,0,0,0,1
+f8eeae89cbce483084c0694c4308f21a,0.5,33,Female,Bachelor's degree,Native speaker,5,Every day,6.0,5,3,3,1,1,0,0,0,1,0,1,1,0,0
+fa1e956bd1ad46d9b8f60cb46f883f4b,0.8,35,Female,Graduate work,Native speaker,-10,Several times per day,7.0,6,3,1,0,0,0,1,0,0,0,0,0,1,0
+fab1c03c549a4b77a6a2e56b4995e72d,0.95,48,Male,Some college,Native speaker,-3,Several times per week,4.0,4,3,5,0,0,1,1,0,0,1,0,0,1,0
+fae82216f89a411aa34b2fc115daa8dd,0.7,50,Female,Bachelor's degree,Native speaker,4,Every day,6.0,5,3,4,1,1,0,1,0,1,0,1,1,1,1
+fb05775fddd141be99577576d699895e,0.45,29,Male,Bachelor's degree,Native speaker,-4,Several times per week,6.0,4,3,1,1,0,0,0,0,0,0,0,0,0,0
+fb15538b7a9a437385b1f47fb4be548a,0.55,34,Male,Bachelor's degree,Native speaker,10,Every day,6.0,5,3,3,1,0,0,1,0,0,0,1,0,1,0
+fb60bd85252c4e19902cbb53d2a39d34,0.45,29,Female,Some college,Native speaker,-9,Every day,4.0,5,3,5,1,0,0,1,0,0,0,1,0,1,0
+fb88bd653c224042b8afb7282dac1de8,0.7,27,Male,Bachelor's degree,Native speaker,-2,Several times per week,6.0,4,3,2,1,0,0,0,0,0,0,1,0,0,0
+fb928dcdd0104a82a3b8e0d322c03cba,0.75,36,Male,Graduate work,Native speaker,10,Several times per week,7.0,4,3,1,0,1,0,0,0,1,0,0,1,0,0
+fb9cabbd7dde47a0a42f8b3c769e5813,0.5,30,Male,Graduate work,Native speaker,-10,Several times per day,7.0,6,3,5,1,0,1,1,0,0,1,1,0,1,1
+fbb3bc1ff5f240c2b8b0cdb043d322df,0.65,34,Male,Bachelor's degree,Native speaker,-7,Several times per month,6.0,3,3,3,1,0,1,0,0,0,1,1,0,0,0
+fbd1f5d15af143abbf8e5e717f8576bc,0.7,31,Male,Some college,Near-native speaker,-6,Very rarely,4.0,2,2,4,1,1,0,1,0,1,0,1,1,0,0
+fbfbd2a2bf774e509643124a19247145,0.75,35,Female,Associate degree,Native speaker,-1,Several times per week,5.0,4,3,2,0,0,1,0,0,0,1,0,0,0,0
+fc5a5a73aac049bf8667eae99aef101b,0.7,33,Male,Bachelor's degree,Native speaker,8,Every day,6.0,5,3,2,1,0,0,0,0,0,0,1,0,0,0
+fd0674b0de8c4ca19453f9140cd3fcd4,0.45,27,Female,Some college,Native speaker,2,Every day,4.0,5,3,3,1,1,0,1,0,1,0,0,0,0,0
+fd59ff16f16d41ae87339a0ff30bdf22,0.7,36,Female,Associate degree,Native speaker,-8,Every day,5.0,5,3,1,0,0,1,1,0,0,1,0,0,0,0
+fd7d3561bbc044eaa9c4ae701e36f13b,0.2,43,Female,Graduate work,Native speaker,7,Every day,7.0,5,3,4,1,1,0,1,0,1,0,1,1,1,0
+fdb9d9cac8204d7b9fabb173239632c8,0.55,29,Male,Bachelor's degree,Native speaker,-9,Every day,6.0,5,3,8,1,1,1,1,1,0,0,1,1,1,1
+fdca4afbfa05430ca77840b156635cce,0.4,67,Female,Bachelor's degree,Native speaker,6,Every day,6.0,5,3,2,1,1,0,0,0,1,0,0,1,0,0
+fe571f3cafd4492b890b1ab624fbd0b6,0.45,46,Male,Bachelor's degree,Native speaker,0,Every day,6.0,5,3,2,0,0,0,1,0,0,0,0,0,1,1
+fe66cc0753154160a4d75df018cefeb7,0.35,42,Male,Graduate work,Native speaker,0,Never,7.0,1,3,8,1,1,1,1,1,0,0,1,1,0,1
+fe8117a65da04c83a69be4c7fb18508b,0.75,44,Male,Bachelor's degree,Native speaker,-4,Several times per day,6.0,6,3,5,1,0,1,1,0,0,1,1,0,1,1
+feb931e7667e4aca87092bebbba74c0d,0.9,26,Male,Some college,Native speaker,0,Every day,4.0,5,3,2,1,1,0,0,0,1,0,1,1,0,0
+feda5e95e6114340b9d0eb945f6c626c,0.7,35,Male,Bachelor's degree,Native speaker,3,Every day,6.0,5,3,3,1,1,0,1,0,1,0,1,0,0,0
+ff38a16c4e1242f7b939894fa02543ba,0.4,36,Male,Graduate work,Native speaker,-10,Every day,7.0,5,3,3,1,0,1,1,0,0,1,1,0,1,0
+ffa11d6fdf1846eaaf6b45acba71a35c,0.7,40,Male,Bachelor's degree,Native speaker,-4,Several times per day,6.0,6,3,10,1,1,1,1,1,0,0,1,1,1,1
+ffb744b78ce2471cbc1ead6be531fc84,0.85,40,Male,Bachelor's degree,Native speaker,4,Several times per day,6.0,6,3,5,1,1,0,1,0,1,0,0,1,0,0
